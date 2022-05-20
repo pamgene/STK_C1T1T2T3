@@ -3,7 +3,7 @@
   "id": "d436bf78d01fb512eabcb44cf3d35072",
   "isDeleted": false,
   "rev": "35-f57745ae633c8f3de61df81d86b3f48f",
-  "description": "A basic STK workflow",
+  "description": "STK workflow with one control and three treatments",
   "name": "STK_C1T1T2T3",
   "createdBy": "plinders",
   "acl": {
