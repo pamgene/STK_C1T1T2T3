@@ -4,7 +4,7 @@
   "isDeleted": false,
   "rev": "131-1a6052cb7dc77816d482f774f79940b7",
   "description": "STK workflow with one control and three treatments",
-  "name": "STK_CT1T2T3_template",
+  "name": "STK_CT1T2T3",
   "createdBy": "dschuller",
   "acl": {
     "kind": "Acl",
