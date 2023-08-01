@@ -1,8 +1,8 @@
 {
   "kind": "Workflow",
-  "id": "70b5a45114631046317b31a985fc5678",
+  "id": "3ee3341b844fce64b2755a4b3b75aa5a",
   "isDeleted": false,
-  "rev": "52-9527721115037eacde61cf41fcc77fb4",
+  "rev": "4-3158638dee165b32deef6b0d3131fb4e",
   "description": "STK workflow with one control and three treatments",
   "name": "STK_CT1T2T3_template",
   "createdBy": "dschuller",
@@ -13,11 +13,11 @@
   },
   "createdDate": {
     "kind": "Date",
-    "value": "2023-07-04T14:52:10.396303Z"
+    "value": "2023-07-31T16:21:59.401377Z"
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2023-07-31T16:18:06.478444Z"
+    "value": "2023-08-01T08:23:18.424375Z"
   },
   "urls": [
     {
@@ -47,7 +47,7 @@
     "kind": "Url",
     "uri": "https://github.com/pamgene/STK_CT1T2T3_template"
   },
-  "version": "0.0.6",
+  "version": "0.1.0",
   "authors": [],
   "isPublic": false,
   "projectId": "5fdacf2e254f508d0bd669ac039fb28b",
@@ -1843,7 +1843,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a2e9f676-974d-4b8b-be12-73d268309571"
+        "id": "3319204c-6a45-46aa-97bb-7e49b70b1a1e"
       },
       "parentDataStepId": ""
     },
@@ -1885,7 +1885,7 @@
         "kind": "TableStepModel",
         "relation": {
           "kind": "UnionRelation",
-          "id": "2eec7382-4377-48bb-9f25-9bfa7e9366ba",
+          "id": "bd1fc076-4f72-4d0e-bc89-bdddc0124dd6",
           "relations": []
         }
       }
@@ -2240,7 +2240,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "ea94f705-0389-486c-b084-802af6dc38c3"
+        "id": "34107242-0a13-475a-9b31-79626a7a3613"
       },
       "parentDataStepId": ""
     },
@@ -2613,7 +2613,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "bf28ef25-fc5b-4652-9095-2d23155acbfd"
+        "id": "74b353ef-94df-458a-a152-8221c16bf0bb"
       },
       "parentDataStepId": ""
     },
@@ -2934,7 +2934,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "89faef3d-a3f3-49df-b0a2-29c5ee1fae6d"
+        "id": "2cfdac37-9081-4dbf-b6ed-4946aac48fae"
       },
       "parentDataStepId": ""
     },
@@ -3307,7 +3307,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d933535d-0841-42d9-ba0b-f81dec445090"
+        "id": "4ddecf44-7c16-4604-85b4-b512f70561a5"
       },
       "parentDataStepId": ""
     },
@@ -3541,7 +3541,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 12
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -3581,7 +3581,7 @@
         },
         "rowTable": {
           "kind": "CrosstabTable",
-          "cellSize": 45.0,
+          "cellSize": 140.0,
           "offset": 0,
           "graphicalFactors": [
             {
@@ -3607,13 +3607,13 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 127
+          "nRows": 1
         },
         "taskId": ""
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "6f18b0d7-7601-4b47-8ad4-be9fe92db9e5"
+        "id": "730359b6-de4e-4537-9c47-9150f7fc5aa4"
       },
       "parentDataStepId": ""
     },
@@ -3968,7 +3968,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "c4fbe1b6-e0f0-408c-be89-39e43e3786b5"
+        "id": "8b6c01bb-4962-4ba4-a719-8783b808f33c"
       },
       "parentDataStepId": ""
     },
@@ -4312,7 +4312,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a520aca4-927d-4c16-86d0-6a24bc255e70"
+        "id": "8af37880-1882-47f3-892c-6f054754de5f"
       },
       "parentDataStepId": ""
     },
@@ -4641,7 +4641,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "9866c0fa-b3ef-4e7e-b5ea-b8b1b4e5e123"
+        "id": "a04285ae-7954-4b25-8d04-28363bd03b59"
       },
       "parentDataStepId": ""
     },
@@ -4970,7 +4970,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "032d0ba2-666d-49ea-8565-6a6199099df0"
+        "id": "ece93110-cd4e-4093-acd2-e3081630bd21"
       },
       "parentDataStepId": ""
     },
@@ -5314,7 +5314,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "75a419c2-18a0-4337-b71a-afd4a353127a"
+        "id": "ecf2830f-9b28-44d8-8b05-31a65be7ef57"
       },
       "parentDataStepId": ""
     },
@@ -5643,7 +5643,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d64e3868-2989-4c3d-aaf7-5136569b9fac"
+        "id": "13aeb228-98f7-4ccd-a6b1-0e02f4f105d8"
       },
       "parentDataStepId": ""
     },
@@ -5972,7 +5972,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "ab976f75-5625-441e-b2d7-0d5708356efc"
+        "id": "5655a937-5139-47a4-b5c2-79dd4873835c"
       },
       "parentDataStepId": ""
     },
@@ -6374,7 +6374,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "da6730fb-1025-4823-b7dc-1410c370771d"
+        "id": "13ee0332-3a08-45f8-b387-0f8be3c91eda"
       },
       "parentDataStepId": ""
     },
@@ -6684,7 +6684,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "e3cd7663-dcc9-4a32-a282-e7444f867044"
+        "id": "c1181b7e-9930-4570-92ff-823dc0fffcd7"
       },
       "parentDataStepId": ""
     },
@@ -7086,7 +7086,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a2220892-272d-4593-8191-e09c9739487d"
+        "id": "0958db69-e943-418e-9851-51d80c4210c7"
       },
       "parentDataStepId": ""
     },
@@ -7166,7 +7166,7 @@
         "kind": "TableStepModel",
         "relation": {
           "kind": "UnionRelation",
-          "id": "dd9cf127-683b-441e-bcf3-4b50a16b561f",
+          "id": "836e3c1f-c683-4a99-b832-e2915d88281a",
           "relations": []
         }
       }
@@ -7632,7 +7632,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1bafb73b-2e70-445b-950a-1bcf168b8d1d"
+        "id": "5962835e-7475-4f72-b9ad-772a52da098e"
       },
       "parentDataStepId": ""
     },
@@ -7936,7 +7936,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "c8bc1fc6-5f4e-4e35-8a11-5dbfc2423694"
+        "id": "219089d6-c814-4eca-ade8-759397ebdf3b"
       },
       "parentDataStepId": ""
     },
@@ -8202,7 +8202,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "4d403ddc-f774-48f7-b8fe-fde3e4df2f1a"
+        "id": "53b197fe-9586-4d5c-9e4c-73fa6feae402"
       },
       "parentDataStepId": ""
     },
@@ -8483,7 +8483,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "b66cfb9f-8d02-421d-83c6-64db60c59414"
+        "id": "4ef81e05-7aa0-4bf4-a311-772d3e8567ee"
       },
       "parentDataStepId": ""
     },
@@ -8854,7 +8854,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "75233438-5edb-4d96-9032-a11a36534ed2"
+        "id": "a7cf850f-f93b-4b15-a1d5-709b943b7986"
       },
       "parentDataStepId": ""
     },
@@ -9554,7 +9554,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "751a2071-8281-40fb-931c-22e6c1a60313"
+        "id": "0413fd87-c1b1-461d-b0be-6311973a3b7a"
       },
       "parentDataStepId": ""
     },
@@ -9823,7 +9823,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "659716b6-cf23-4fc2-8b64-8f240f57cf14"
+        "id": "6bb3c0d3-7b3a-4d4a-8131-1c65bf1efa99"
       },
       "parentDataStepId": ""
     },
@@ -10102,7 +10102,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "99718c56-a937-4fb1-9723-f3dde207d975"
+        "id": "44807abe-79ad-49b5-adea-fde97ef0ca02"
       },
       "parentDataStepId": ""
     },
@@ -10361,7 +10361,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "f3d8576f-d23b-46da-84e5-3edb34f82740"
+        "id": "1ce84e2a-3ede-47ee-89b8-3dc6c2028eb9"
       },
       "parentDataStepId": ""
     },
@@ -10608,7 +10608,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "9f4cc72f-452a-494b-b6b0-fe33bee95220"
+        "id": "18e2bf52-50e6-483c-9e89-752ab430e79a"
       },
       "parentDataStepId": ""
     },
@@ -10910,7 +10910,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a886000f-c3b3-4ef4-b141-ccfa8395911b"
+        "id": "47ea5fed-02e6-4b3d-98ba-d8a9cc564114"
       },
       "parentDataStepId": ""
     },
@@ -11176,7 +11176,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "014e95e0-7664-4472-b54a-668fee46eabd"
+        "id": "4bae87af-1275-4d54-9fda-faf903b92909"
       },
       "parentDataStepId": ""
     },
@@ -11481,7 +11481,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "3eadbdd6-ffa4-48cc-99f6-4d6f6b420dab"
+        "id": "ecc34f7f-100d-4bc2-9e5e-ca9846e5ca04"
       },
       "parentDataStepId": ""
     },
@@ -11783,7 +11783,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1bb08d9d-c880-4629-905e-a5267821c420"
+        "id": "308a27cb-a1b5-4c2d-92b1-8c2f9464e3b4"
       },
       "parentDataStepId": ""
     },
@@ -12049,7 +12049,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1dfb3b04-c3fa-4fea-a346-4dc786ef35dc"
+        "id": "4ea32cac-3cdd-41ce-95d5-1491ce389d27"
       },
       "parentDataStepId": ""
     },
@@ -12498,7 +12498,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "960ae8e0-af4c-4a2c-8236-ab860ad656b5"
+        "id": "2e031724-51b4-4f86-afed-2b53141e8cfc"
       },
       "parentDataStepId": ""
     },
@@ -12869,7 +12869,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "31e8044c-9a52-4563-8553-9445d67bdb43"
+        "id": "4055794a-e792-479a-aee9-0074bf640e0c"
       },
       "parentDataStepId": ""
     },
@@ -13259,7 +13259,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "040b6b84-b423-4116-a8b0-606fc17159d9"
+        "id": "6899c947-1481-43a2-8efe-83a22eae98f3"
       },
       "parentDataStepId": ""
     },
@@ -13843,7 +13843,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "9da5396d-c0dc-455e-be84-f4c72306728c"
+        "id": "9ae27abe-944f-4d32-b760-22ef063e238e"
       },
       "parentDataStepId": ""
     },
@@ -14112,7 +14112,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "47c77fde-8d95-4072-ba3c-64260b2f33cd"
+        "id": "eb1cb37b-b49d-48b5-9c25-0876602a07df"
       },
       "parentDataStepId": ""
     },
@@ -14391,7 +14391,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "f4cde05a-6f7c-48b5-8b71-91f8a2c9f39e"
+        "id": "bef622f7-66c3-4fd5-965b-6bf5c11f1602"
       },
       "parentDataStepId": ""
     },
@@ -14650,7 +14650,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "6fe6e811-48ce-4820-b332-c0f980fd7488"
+        "id": "797d9d37-39f7-4600-9831-7413315d6d1d"
       },
       "parentDataStepId": ""
     },
@@ -14897,7 +14897,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "f1406049-df8f-4862-89fd-2376ab65f6d0"
+        "id": "d00139ee-3872-4294-b4d2-52685c0c8fae"
       },
       "parentDataStepId": ""
     },
@@ -15199,7 +15199,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "3c8c0ffc-cd22-4b5f-bd4e-197ac2ed658b"
+        "id": "a235c85f-f677-45cb-8f5f-af1a9ac57f0b"
       },
       "parentDataStepId": ""
     },
@@ -15465,7 +15465,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "58bb3b48-5e6d-42c3-ba53-d3eefbdb91ce"
+        "id": "f0eadc29-17d7-4368-a763-f376b0b53158"
       },
       "parentDataStepId": ""
     },
@@ -15770,7 +15770,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "ad12659d-f238-4208-85a7-423897776fd3"
+        "id": "4564ae2e-9065-4aa0-83c2-3baa7f8d76f8"
       },
       "parentDataStepId": ""
     },
@@ -16072,7 +16072,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "4c831b95-395d-4dcf-acda-f2e6926c4168"
+        "id": "8b8561b9-9920-486a-bade-8658e8d11422"
       },
       "parentDataStepId": ""
     },
@@ -16338,7 +16338,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a61cefc6-84c8-4465-b5a8-06c5a4ca0674"
+        "id": "e487ed88-188e-4efc-b7f3-47cecd8b11aa"
       },
       "parentDataStepId": ""
     },
@@ -16787,7 +16787,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "aee3f772-e03c-4690-bee4-28c0a4de016b"
+        "id": "7e28039a-2f33-4cb9-bdc1-d6b055a2a336"
       },
       "parentDataStepId": ""
     },
@@ -17158,7 +17158,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "59d902ba-43d2-4224-a526-211c41be1e1d"
+        "id": "802c1001-59ee-44fb-8416-270d6d447156"
       },
       "parentDataStepId": ""
     },
@@ -17548,7 +17548,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "50f526e0-97a5-471c-88f3-4bbd24b03e15"
+        "id": "61ded404-a6c6-471e-90a7-225e6180d9e9"
       },
       "parentDataStepId": ""
     },
@@ -18180,7 +18180,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "26e66966-33b1-4422-b202-774952f8afd6"
+        "id": "a154eec4-b421-45a1-be71-d3827612a930"
       },
       "parentDataStepId": ""
     },
@@ -18464,7 +18464,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "4981d6b2-c599-4261-ab9a-51028bbe0952"
+        "id": "78e87c61-e76e-44b3-9888-939dc693a256"
       },
       "parentDataStepId": ""
     },
@@ -18780,7 +18780,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "f4896109-89cb-4db9-ba80-3a32b4ad3ce6"
+        "id": "4150de5f-7873-42f9-8f2d-496373ff2193"
       },
       "parentDataStepId": ""
     },
@@ -19196,7 +19196,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "7017fa52-a347-40bb-9fdb-ea7a77484d42"
+        "id": "2f9b6915-5aef-424d-9fb8-bdea57b258d8"
       },
       "parentDataStepId": ""
     },
@@ -19868,7 +19868,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a34f1e34-c0b0-4430-8b5a-6b0bea2e4073"
+        "id": "237d615d-4dd7-454a-9644-2b54df1cac80"
       },
       "parentDataStepId": ""
     },
@@ -20447,7 +20447,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "fd369b00-4010-4e56-a44a-d20dafec9acd"
+        "id": "9ce1de9b-d93f-4b87-84e9-35f71385081b"
       },
       "parentDataStepId": ""
     },
@@ -21026,7 +21026,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "24bb5d9c-27d7-4122-9993-5f1097c7fc4b"
+        "id": "fcffac9b-6014-4904-85e7-147d5225e995"
       },
       "parentDataStepId": ""
     },
@@ -21605,7 +21605,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "dd63b529-62bd-4975-862f-87a33fa0a179"
+        "id": "cf2c5c26-2017-4b77-bf98-7928684a1f3c"
       },
       "parentDataStepId": ""
     },
@@ -22184,7 +22184,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a663599a-90c6-436b-874c-389de79b04be"
+        "id": "a2e12bf9-f28a-46e9-8b9f-85670d56ffcd"
       },
       "parentDataStepId": ""
     },
@@ -22729,7 +22729,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "6249aa87-cfec-467f-9b78-e218b2c0f6f4"
+        "id": "de8df95f-c519-44e5-be6a-8e9ecf4c3b0c"
       },
       "parentDataStepId": ""
     },
@@ -23073,7 +23073,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "4c4763f3-9969-4c36-b27c-8f025b731ef1"
+        "id": "18873c21-4aa6-4d4a-a8c2-14d360a52d92"
       },
       "parentDataStepId": ""
     },
@@ -23451,7 +23451,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "7efe4ca5-8b8d-4ae7-ad3d-6c525b01313c"
+        "id": "50c53f84-71fa-452b-820d-f36bd801e7a6"
       },
       "parentDataStepId": ""
     },
@@ -24062,7 +24062,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "b8c197b1-0b7d-453b-8e5e-cc72487bbcdc"
+        "id": "3fc5f46c-42db-4d68-ac55-316ae4928a4d"
       },
       "parentDataStepId": ""
     },
@@ -24658,7 +24658,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "28ce3883-11de-4503-bdc9-169e3068af82"
+        "id": "5a8690a3-4c6c-49a5-990e-22d5988cdc83"
       },
       "parentDataStepId": ""
     },
@@ -25203,7 +25203,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "0bd760c3-016e-4191-9449-0f6214edbb44"
+        "id": "5f9a6082-4c59-48c7-bc3c-a5eaaba0ffdf"
       },
       "parentDataStepId": ""
     },
@@ -25596,7 +25596,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1890faa2-f28a-49a5-bd6a-6543fabb1736"
+        "id": "5c0ec011-33a0-4744-9158-de94726c154e"
       },
       "parentDataStepId": ""
     },
@@ -26141,7 +26141,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d0534d20-4132-4dec-8cef-30102c69e048"
+        "id": "1d7e8a3c-b31c-4cbd-ab29-16caf77b584e"
       },
       "parentDataStepId": ""
     },
@@ -26534,7 +26534,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "0d7e7b39-fa12-470d-bdd2-751bd6e0a809"
+        "id": "a435bc27-82ab-494c-94b8-10244411c473"
       },
       "parentDataStepId": ""
     },
@@ -27049,7 +27049,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "48578c70-6361-4a88-ab0e-0675d1a56521"
+        "id": "02ed4e73-71d1-4533-8944-5c18f93eb33d"
       },
       "parentDataStepId": ""
     },
@@ -27296,7 +27296,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "c111df0e-aae2-4dd1-8172-65f49ff3b5db"
+        "id": "2b37efa0-a49d-4dc8-b88c-135612f249e7"
       },
       "parentDataStepId": ""
     },
@@ -27543,7 +27543,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "789b199c-5c2a-400a-983f-fea998a8d9b5"
+        "id": "f2735eb4-c0b4-4a5a-a3bf-e417b07cf3aa"
       },
       "parentDataStepId": ""
     },
@@ -27824,7 +27824,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "79746c33-d3b7-474e-99d7-2713a146960f"
+        "id": "9ad0c120-7e73-4f22-970e-3b22e4f9df3c"
       },
       "parentDataStepId": ""
     },
@@ -28138,7 +28138,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "494493bf-9ef0-4d82-aa7b-6d02521b9535"
+        "id": "d964af92-a7bc-4e0a-bb2f-747873f4ba74"
       },
       "parentDataStepId": ""
     },
@@ -28424,7 +28424,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "84f99412-34fc-4a1a-b4ca-21252f12ff74"
+        "id": "d594b3dc-ad6f-44f4-a29f-310b1c145c6c"
       },
       "parentDataStepId": ""
     },
@@ -28792,7 +28792,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "5f726a94-b182-434d-8c1d-090ea28bf23e"
+        "id": "d1156d01-6f8b-4205-9d00-b088da517450"
       },
       "parentDataStepId": ""
     },
@@ -29281,7 +29281,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "9573c366-95bf-46bf-a398-8d9b42376eeb"
+        "id": "79652cbe-4c50-4df8-acdb-8c8313c2cb19"
       },
       "parentDataStepId": ""
     },
@@ -29528,7 +29528,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "b33a263a-fd3d-48c4-af56-88b549e5f4da"
+        "id": "129495de-8142-411a-abd1-1bec28241d0d"
       },
       "parentDataStepId": ""
     },
@@ -29809,7 +29809,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "2f0461f4-e43f-43ae-be69-142b32e51149"
+        "id": "1153cd5b-5e31-420b-81b2-f4f6c902b004"
       },
       "parentDataStepId": ""
     },
@@ -30123,7 +30123,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d3b0e869-ea9f-46cf-83b0-72439636b0f7"
+        "id": "ebbfb1de-c03a-4355-8282-2b87ef2bb0e1"
       },
       "parentDataStepId": ""
     },
@@ -30409,7 +30409,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d0e3a524-64a3-43ce-a147-ca83fb775d71"
+        "id": "67d586cc-c341-4073-8e3b-267003c6ff32"
       },
       "parentDataStepId": ""
     },
@@ -30777,7 +30777,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a88d269f-f0da-4d87-9932-9fc5a011aded"
+        "id": "c8530b77-b3b9-48a2-a755-59034566f781"
       },
       "parentDataStepId": ""
     },
@@ -31246,7 +31246,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "4ac09267-f97f-4965-8725-b88703b07625"
+        "id": "aa5d8d76-53f7-4394-adbe-b6b0e9d95537"
       },
       "parentDataStepId": ""
     },
@@ -31493,7 +31493,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "417aa165-485e-4599-b75f-db56bf8baddb"
+        "id": "b205c48b-2742-4610-ba80-90296cfc361a"
       },
       "parentDataStepId": ""
     },
@@ -31774,7 +31774,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1f004d0b-1e61-4d6e-88b4-38491da340fd"
+        "id": "9e767822-b9c5-41da-b674-032839fdab90"
       },
       "parentDataStepId": ""
     },
@@ -32088,7 +32088,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "49d95c8a-92a3-403c-aca5-bfa439de047f"
+        "id": "7d5b7314-e66a-4de8-880d-510d0dba98a5"
       },
       "parentDataStepId": ""
     },
@@ -32374,7 +32374,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "33adf4b5-2bc2-4c07-bc1e-23256248ad03"
+        "id": "fd5f5f72-aab6-45ee-9544-6f0bcd818dde"
       },
       "parentDataStepId": ""
     },
@@ -32742,7 +32742,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a3aa52c8-e6d5-4f1b-a893-da1197196cb2"
+        "id": "52681589-097b-45e5-9720-bf8a2e26e021"
       },
       "parentDataStepId": ""
     },
@@ -33211,7 +33211,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "27f68af3-5db1-42fa-8e19-2a97889def90"
+        "id": "4fcfa744-a62c-4691-94d1-cf5b6132a87c"
       },
       "parentDataStepId": ""
     },
@@ -33458,7 +33458,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "6894d871-f5a7-4aad-aa73-dd99d915c382"
+        "id": "7fa7bb19-c133-44de-8698-75f287fc82f8"
       },
       "parentDataStepId": ""
     },
@@ -33739,7 +33739,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "eabb4446-6774-4881-8f94-48f1b3b353dc"
+        "id": "bd934b7b-e25a-4239-ae29-777db87ebbb2"
       },
       "parentDataStepId": ""
     },
@@ -34053,7 +34053,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a8417bdc-a849-4bfe-bbfc-253797ac2742"
+        "id": "8794db60-e6a0-46da-8c73-c15414345f98"
       },
       "parentDataStepId": ""
     },
@@ -34339,7 +34339,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "a6905299-656d-4ce8-85ff-0fdad51da3f4"
+        "id": "d8d62823-f00f-4b6d-9a88-2aaa70a0e4fa"
       },
       "parentDataStepId": ""
     },
@@ -34707,7 +34707,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "8d90ebf9-ac9f-4079-90c3-4028a02b01ff"
+        "id": "58ec1858-f4b1-4f7f-9e5a-9fd0a1e8cc2b"
       },
       "parentDataStepId": ""
     },
@@ -35253,7 +35253,7 @@
             "kind": "OperatorRef",
             "name": "Export Crosstab Shiny Operator",
             "version": "0.0.4",
-            "operatorId": "cceacb639108471ad0c874846979638a",
+            "operatorId": "a9cd3a4bedccc84127966ac7259cc77d",
             "operatorKind": "ShinyOperator",
             "propertyValues": [],
             "url": {
@@ -35335,7 +35335,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "14efa506-b6a6-4bc1-9990-e8b274507e22"
+        "id": "98c2a866-9f94-4b18-8554-df1850476367"
       },
       "parentDataStepId": ""
     },
@@ -35659,7 +35659,7 @@
             "kind": "OperatorRef",
             "name": "Export Crosstab Shiny Operator",
             "version": "0.0.4",
-            "operatorId": "cceacb639108471ad0c874846979638a",
+            "operatorId": "a9cd3a4bedccc84127966ac7259cc77d",
             "operatorKind": "ShinyOperator",
             "propertyValues": [],
             "url": {
@@ -35727,7 +35727,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "5b61318f-73ed-40a6-8aa5-b499e1c5c043"
+        "id": "fcb367d7-6ff5-4211-856f-e365f9718485"
       },
       "parentDataStepId": ""
     },
@@ -36032,7 +36032,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "34a03d44-7ade-4b80-bcea-c3b62fc9c481"
+        "id": "179720e7-73bb-4282-8413-9585e05ac49e"
       },
       "parentDataStepId": ""
     },
@@ -36338,7 +36338,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "aa47f536-e074-4f57-9b78-605278e5198f"
+        "id": "0002bc57-a847-4e26-8ba6-b1d289e5f9c5"
       },
       "parentDataStepId": ""
     },
@@ -36664,7 +36664,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d6db1fcb-69c2-4f03-9a40-34c62aaeb0ec"
+        "id": "ccdab6df-0115-499f-9e52-e6e813c49343"
       },
       "parentDataStepId": ""
     },
@@ -36930,7 +36930,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "b2cad7c1-d697-49b9-8137-9aee0a1ae6a1"
+        "id": "1701f7b6-8f9f-468e-8e5b-dd9f68155620"
       },
       "parentDataStepId": ""
     },
@@ -37647,7 +37647,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "cdb428f8-4efa-46a3-8a75-fab9d9cf43e0"
+        "id": "b82d6e82-8a07-4361-852e-5f78e783285d"
       },
       "parentDataStepId": ""
     },
@@ -37974,7 +37974,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "c9745e54-aee8-40bf-a799-46e9c0f8f995"
+        "id": "18ceacba-607b-4dd7-b905-f8fe1b6cb6d1"
       },
       "parentDataStepId": ""
     },
@@ -38315,7 +38315,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "01785f3f-5f53-4d92-b05b-1f81cf048f5e"
+        "id": "8e32d17b-6a1e-45f8-941f-b607b70b0ccd"
       },
       "parentDataStepId": ""
     },
@@ -38621,7 +38621,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "22fe967a-2c4c-49ed-a2f8-953ee1680a9b"
+        "id": "d55b6e29-8b3a-45bc-80cf-89bfcc2b71a0"
       },
       "parentDataStepId": ""
     },
@@ -38947,7 +38947,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "cfbf16ac-6c86-4f4f-9387-e7c6a150f485"
+        "id": "822b6359-da91-4573-a186-4441e663813f"
       },
       "parentDataStepId": ""
     },
@@ -39213,7 +39213,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "13560bfe-b131-40b4-9150-3e2e96798715"
+        "id": "1892a38a-9dc2-4fba-a8d9-ea8bc211e9f9"
       },
       "parentDataStepId": ""
     },
@@ -39927,7 +39927,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "8141c98c-89eb-4353-bf79-8f5d04e3199b"
+        "id": "9aec9d05-134c-4750-8790-66cd47698779"
       },
       "parentDataStepId": ""
     },
@@ -40254,7 +40254,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "8e74fc01-833d-482a-9417-b2e81cc25765"
+        "id": "553e3dc4-7e26-4659-967d-090373fca786"
       },
       "parentDataStepId": ""
     },
@@ -40595,7 +40595,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "8940b79a-ca1c-4449-a1c5-7d696b18f69d"
+        "id": "a8413af8-c782-4574-ba60-f9ff7f28b173"
       },
       "parentDataStepId": ""
     },
@@ -40901,7 +40901,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "2c92e8ad-2499-4001-8c0d-5469ad525cd9"
+        "id": "00b1dcfc-894b-44f3-b994-7bac4c84b3f1"
       },
       "parentDataStepId": ""
     },
@@ -41227,7 +41227,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "69e5644e-3dd0-414a-96ad-8128e79c24d8"
+        "id": "0852f9cb-5b34-4bc4-863f-b2dbef4f5aba"
       },
       "parentDataStepId": ""
     },
@@ -41493,7 +41493,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1e7d6931-b336-4087-aa93-9e4960f4b7cc"
+        "id": "c06f03a7-5e2d-41f6-ae97-4e6be5e917c9"
       },
       "parentDataStepId": ""
     },
@@ -42207,7 +42207,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "7710a1a4-8b3b-400d-9cca-8e8fc9e36643"
+        "id": "c724c5db-347a-43f6-b606-68edff679d06"
       },
       "parentDataStepId": ""
     },
@@ -42534,7 +42534,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "33da8bcc-0980-40c7-845d-dfd7e902ba3e"
+        "id": "19711c01-fa4d-496b-ac53-b63a5875fc6e"
       },
       "parentDataStepId": ""
     },
@@ -42875,7 +42875,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "8e62f9b3-4a3a-4bc4-a033-2ccce438dd79"
+        "id": "866bfb8a-6af8-49cd-b6b6-c18fdbff30f0"
       },
       "parentDataStepId": ""
     },
@@ -43181,7 +43181,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "2c9f452b-98c7-4e00-920c-add411d0afca"
+        "id": "81379fa9-2f02-4f17-af9f-6910546a6553"
       },
       "parentDataStepId": ""
     },
@@ -43507,7 +43507,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "90ab0827-c3a4-4bb0-8cc1-877e95f3c5b1"
+        "id": "c8db7e62-5347-4706-b231-36227b3bba83"
       },
       "parentDataStepId": ""
     },
@@ -43773,7 +43773,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "afeaa191-93ae-47de-9a59-6f00ccbf462d"
+        "id": "c3c4d0d5-625e-40ad-91a2-ccc780d3a206"
       },
       "parentDataStepId": ""
     },
@@ -44487,7 +44487,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "d7fe777b-e534-4a32-9357-9620b3e5f5e3"
+        "id": "d86c2b7a-a52a-424e-bbb1-2b44dae08688"
       },
       "parentDataStepId": ""
     },
@@ -44814,7 +44814,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "8f5aa5cb-7c53-4078-a844-adb351080a1f"
+        "id": "548933eb-3050-494e-9d27-e999b1f91ab9"
       },
       "parentDataStepId": ""
     },
@@ -45145,7 +45145,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "f73734b0-435e-4c5f-9f14-c8b658f6f9c1"
+        "id": "de175911-5937-43cb-bc99-f2b833ccf1a6"
       },
       "parentDataStepId": ""
     },
@@ -45429,7 +45429,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "594c2003-24b1-410e-9297-741bf1f4b513"
+        "id": "7c22039c-4f03-47cb-ac2a-a039ed726cc0"
       },
       "parentDataStepId": ""
     },
@@ -45745,7 +45745,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "1ca2fd52-8422-4d9b-be8b-49fd461e5df2"
+        "id": "e50317e2-ae81-46a5-afcc-ee9551a0653f"
       },
       "parentDataStepId": ""
     },
@@ -46161,7 +46161,7 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "f0cf87d9-3752-4fac-8ad7-ad8dca92cacb"
+        "id": "a4d57f80-fdc9-4928-95f0-56ce8f52b136"
       },
       "parentDataStepId": ""
     },
@@ -46575,7 +46575,7 @@
                   "kind": "GraphicalFactor",
                   "factor": {
                     "kind": "Factor",
-                    "name": "STKQC0.ds128.cvx",
+                    "name": "VSN.norm",
                     "type": "double"
                   },
                   "rectangle": {
@@ -46668,7 +46668,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 12
+          "nRows": 1
         },
         "filters": {
           "kind": "Filters",
@@ -46742,7 +46742,7 @@
         },
         "rowTable": {
           "kind": "CrosstabTable",
-          "cellSize": 49.4,
+          "cellSize": 172.39999999999998,
           "offset": 0,
           "graphicalFactors": [
             {
@@ -46768,13 +46768,13 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 127
+          "nRows": 1
         },
         "taskId": ""
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "e89cc67c-c030-4e04-9734-7b40caea4406"
+        "id": "0c76299c-94a9-4c8f-bb82-46bf94cdc6cb"
       },
       "parentDataStepId": ""
     },
@@ -47088,14 +47088,14 @@
       },
       "computedRelation": {
         "kind": "Relation",
-        "id": "c1bd236e-2854-458f-b2eb-f0fc6f74f9d9"
+        "id": "89671f73-ef87-4341-998d-37391b816df0"
       },
       "parentDataStepId": ""
     }
   ],
   "offset": {
     "kind": "Point",
-    "x": -669.0,
-    "y": 405.0
+    "x": -402.0,
+    "y": 186.0
   }
 }
