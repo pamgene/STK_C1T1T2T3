@@ -1,0 +1,136 @@
+{
+ "kind": "TableSchema",
+ "id": "c4a7b5c60a8ac4250e2aa0a59022cfe9f2e2951ac96d78dd86354d89f501ad79",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "enrichment_PTKSTK_CT123_03_04_06_15_16_19.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "c4a7b5c60a8ac4250e2aa0a59022cfe9f2e2951ac96d78dd86354d89f501ad79"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 24,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "edb7ccb4-c925-43da-8418-e208b1b78aa8",
+   "name": "Barcode",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "476b2d4e-d3ba-4389-bdd7-ab192f57eac1",
+   "name": "Row",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "c6e285ca-b5c3-4b9e-980e-dea8f0a3f4a4",
+   "name": "Sample name",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "b7733ad9-093a-4d46-b4fb-7f8251a621ba",
+   "name": "Supergroup",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "b7e68f0a-4ecc-485e-b8ba-f141262e4979",
+   "name": "Test Condition",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "6d89d259-a000-4941-9af8-c32494e5f918",
+   "name": "Replicate",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/c4/a7/c4a7b5c60a8ac4250e2aa0a59022cfe9f2e2951ac96d78dd86354d89f501ad79",
+ "relation": {
+  "kind": "Relation",
+  "id": "6ecdeffa-d981-475b-87a5-317ec6baebcd"
+ }
+}
