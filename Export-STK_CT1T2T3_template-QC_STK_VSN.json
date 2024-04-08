@@ -1,0 +1,40 @@
+{
+ "kind": "TableSchema",
+ "id": "26",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Export-STK_CT1T2T3_template-QC_STK_VSN",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 0,
+ "columns": [],
+ "dataDirectory": "",
+ "relation": {
+  "kind": "SimpleRelation",
+  "id": "463e6f72f299ce9cd3656143765bb6b84ed853a9982e92326608d3aa5d2bc4ae",
+  "index": 0
+ }
+}
