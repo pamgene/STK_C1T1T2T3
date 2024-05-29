@@ -1,0 +1,326 @@
+{
+ "kind": "ComputedTableSchema",
+ "id": "d18e16698ff8a123573b3338097dc16319a0092ccc5a5fc4653b90f74d4443dc",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "90920920-f431-1ff2-908d-fb7e17ce7d8a",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "d18e16698ff8a123573b3338097dc16319a0092ccc5a5fc4653b90f74d4443dc"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 8972,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "7a9a33b2-d5dc-4a9c-bf8e-b9277f1a501e",
+   "name": ".ri",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "48b924c0-529a-4978-9dea-8ff191ef80a3",
+   "name": ".ci",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "8e06dbc1-583f-4594-a9da-f0404e555c6f",
+   "name": "ETS.ds0.xFit",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "6c8f43be-dc94-4b7f-9232-2ea6ab97a19b",
+   "name": "ETS.ds0.yFit",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/d1/8e/d18e16698ff8a123573b3338097dc16319a0092ccc5a5fc4653b90f74d4443dc",
+ "relation": {
+  "kind": "Relation",
+  "id": "d7c62808-30df-4684-9436-d2fb151ababa"
+ },
+ "query": {
+  "kind": "CubeQuery",
+  "relation": {
+   "kind": "CompositeRelation",
+   "id": "82e9ef69-080f-4a6e-ba6d-8bdafef9d24b",
+   "joinOperators": [
+    {
+     "kind": "JoinOperator",
+     "joinType": "r.o.f",
+     "leftPair": {
+      "kind": "ColumnPair",
+      "lColumns": [
+       "ds0.Barcode",
+       "ds0.Row"
+      ],
+      "rColumns": [
+       "js1.Barcode",
+       "js1.Row"
+      ]
+     },
+     "rightRelation": {
+      "kind": "RenameRelation",
+      "id": "b9429dbb-c49e-4341-869b-ec590e1ac01f",
+      "relation": {
+       "kind": "RenameRelation",
+       "id": "eb9529b7-0ec5-44c9-b3ed-45a79bfa3e23",
+       "relation": {
+        "kind": "SimpleRelation",
+        "id": "c4a7b5c60a8ac4250e2aa0a59022cfe9f2e2951ac96d78dd86354d89f501ad79",
+        "index": 1
+       },
+       "inNames": [
+        "Barcode",
+        "Row",
+        "Sample name",
+        "Supergroup",
+        "Test Condition",
+        "Replicate",
+        "c4a7b5c60a8ac4250e2aa0a59022cfe9f2e2951ac96d78dd86354d89f501ad79._rids"
+       ],
+       "outNames": [
+        "Barcode",
+        "Row",
+        "Sample name",
+        "Supergroup",
+        "Test Condition",
+        "Replicate",
+        "rowId"
+       ]
+      },
+      "inNames": [
+       "Barcode",
+       "Row",
+       "Sample name",
+       "Supergroup",
+       "Test Condition",
+       "Replicate",
+       "rowId"
+      ],
+      "outNames": [
+       "js1.Barcode",
+       "js1.Row",
+       "js1.Sample name",
+       "js1.Supergroup",
+       "js1.Test Condition",
+       "js1.Replicate",
+       "js1.rowId"
+      ]
+     }
+    }
+   ],
+   "mainRelation": {
+    "kind": "RenameRelation",
+    "id": "a06d92e1-754e-47fb-9fb5-2995cd919688",
+    "relation": {
+     "kind": "SimpleRelation",
+     "id": "c27015ed8db370240145d7eab9114bacf4b3bcf6ee2d7a6a3695ffcaf511862d",
+     "index": 0
+    },
+    "inNames": [
+     "ds0.Instrument Unit",
+     "ds0.RunId",
+     "ds0.Barcode",
+     "ds0.Row",
+     "ds2..spotRow",
+     "ds2..spotCol",
+     "ds0.Exposure Time",
+     "ds0.Cycle",
+     "ds1.ID",
+     "js0.UniprotAccession",
+     "ds3.Median_SigmBg",
+     "ds3.Signal_Saturation",
+     "c27015ed8db370240145d7eab9114bacf4b3bcf6ee2d7a6a3695ffcaf511862d._rids"
+    ],
+    "outNames": [
+     "ds0.Instrument Unit",
+     "ds0.RunId",
+     "ds0.Barcode",
+     "ds0.Row",
+     "ds2..spotRow",
+     "ds2..spotCol",
+     "ds0.Exposure Time",
+     "ds0.Cycle",
+     "ds1.ID",
+     "js0.UniprotAccession",
+     "ds3.Median_SigmBg",
+     "ds3.Signal_Saturation",
+     "rowId"
+    ]
+   }
+  },
+  "colColumns": [
+   {
+    "kind": "Factor",
+    "name": "js1.Barcode",
+    "type": "string"
+   },
+   {
+    "kind": "Factor",
+    "name": "ds0.Cycle",
+    "type": "double"
+   },
+   {
+    "kind": "Factor",
+    "name": "js1.Row",
+    "type": "double"
+   }
+  ],
+  "rowColumns": [
+   {
+    "kind": "Factor",
+    "name": "ds1.ID",
+    "type": "string"
+   }
+  ],
+  "axisQueries": [
+   {
+    "kind": "CubeAxisQuery",
+    "pointSize": 4,
+    "chartType": "point",
+    "yAxis": {
+     "kind": "Factor",
+     "name": "ds3.Median_SigmBg",
+     "type": "double"
+    },
+    "yAxisSettings": {
+     "kind": "AxisSettings",
+     "meta": []
+    },
+    "xAxis": {
+     "kind": "Factor",
+     "name": "ds0.Exposure Time",
+     "type": "double"
+    },
+    "xAxisSettings": {
+     "kind": "AxisSettings",
+     "meta": []
+    },
+    "errors": [],
+    "labels": [],
+    "colors": [],
+    "preprocessors": []
+   }
+  ],
+  "filters": {
+   "kind": "Filters",
+   "removeNaN": true,
+   "namedFilters": [
+    {
+     "kind": "NamedFilter",
+     "logical": "and",
+     "not": false,
+     "filterExprs": [
+      {
+       "kind": "FilterExpr",
+       "filterOp": "less",
+       "stringValue": "0.05",
+       "factor": {
+        "kind": "Factor",
+        "name": "ds3.Signal_Saturation",
+        "type": "double"
+       }
+      }
+     ],
+     "meta": [],
+     "name": "Signal saturation"
+    }
+   ]
+  },
+  "operatorSettings": {
+   "kind": "OperatorSettings",
+   "namespace": "ETS.ds0",
+   "operatorRef": {
+    "kind": "OperatorRef",
+    "name": "ETS",
+    "version": "0.3.0",
+    "operatorId": "2",
+    "operatorKind": "ROperator",
+    "propertyValues": [],
+    "url": {
+     "kind": "Url",
+     "uri": "https://github.com/pamgene/ETS_operator"
+    },
+    "operatorSpec": {
+     "kind": "OperatorSpec",
+     "ontologyUri": "",
+     "ontologyVersion": "",
+     "inputSpecs": [],
+     "outputSpecs": []
+    }
+   },
+   "environment": [],
+   "operatorModel": {
+    "kind": "OperatorModel"
+   }
+  },
+  "qtHash": "",
+  "columnHash": "",
+  "rowHash": ""
+ }
+}

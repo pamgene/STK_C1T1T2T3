@@ -1,0 +1,413 @@
+{
+ "kind": "ComputedTableSchema",
+ "id": "45cd43711df2d1ef4acc2293a306d8bd85464dc71c856de23e940648af3b6b24",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "63f54480-f581-1ff2-908d-fb7e17ce7d8a",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "45cd43711df2d1ef4acc2293a306d8bd85464dc71c856de23e940648af3b6b24"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 1740,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "5bdc6832-00e5-44ab-b299-f5677634ea9a",
+   "name": ".ri",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "61e7e956-7363-42d1-ae77-3e2023992cc3",
+   "name": ".ci",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "b4466975-a88e-419f-9b53-635070f2dd56",
+   "name": "STKQC.ds20.logTransformed",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/45/cd/45cd43711df2d1ef4acc2293a306d8bd85464dc71c856de23e940648af3b6b24",
+ "relation": {
+  "kind": "Relation",
+  "id": "582b5ec2-ba63-45d9-813c-5bf95a7265ca"
+ },
+ "query": {
+  "kind": "CubeQuery",
+  "relation": {
+   "kind": "CompositeRelation",
+   "id": "3d079074-57b3-4fde-a1ad-675aade5de52",
+   "joinOperators": [
+    {
+     "kind": "JoinOperator",
+     "joinType": "leftOuter",
+     "leftPair": {
+      "kind": "ColumnPair",
+      "lColumns": [
+       "ETS.ds1..Barcode",
+       "ETS.ds1..Row",
+       "ETS.ds1..Cycle",
+       "ETS.ds1..ID"
+      ],
+      "rColumns": [
+       "ETS.ds1..Barcode",
+       "ETS.ds1..Row",
+       "ETS.ds1..Cycle",
+       "ETS.ds1..ID"
+      ]
+     },
+     "rightRelation": {
+      "kind": "RenameRelation",
+      "id": "c1bbfc3f-dd62-42ff-91f3-6a48bfc7ba68",
+      "relation": {
+       "kind": "CompositeRelation",
+       "id": "28697355-1563-4996-9d84-858d47b129b8",
+       "joinOperators": [
+        {
+         "kind": "JoinOperator",
+         "joinType": "leftOuter",
+         "leftPair": {
+          "kind": "ColumnPair",
+          "lColumns": [
+           ".ri"
+          ],
+          "rColumns": [
+           "6b9196f9b21ccaa1854cb774cb51f662786a255f69aa978d6b8d155ca59eaf6f._rids"
+          ]
+         },
+         "rightRelation": {
+          "kind": "SimpleRelation",
+          "id": "6b9196f9b21ccaa1854cb774cb51f662786a255f69aa978d6b8d155ca59eaf6f",
+          "index": 5
+         }
+        }
+       ],
+       "mainRelation": {
+        "kind": "CompositeRelation",
+        "id": "6e1325bf-dba8-4bdb-9e3e-ee4b8962a5d4",
+        "joinOperators": [
+         {
+          "kind": "JoinOperator",
+          "joinType": "leftOuter",
+          "leftPair": {
+           "kind": "ColumnPair",
+           "lColumns": [
+            ".ci"
+           ],
+           "rColumns": [
+            "bc222949d803e0fab6296ae0222e3ebeb381fe7a1dc5a7467799a9556cb5f185._rids"
+           ]
+          },
+          "rightRelation": {
+           "kind": "SimpleRelation",
+           "id": "bc222949d803e0fab6296ae0222e3ebeb381fe7a1dc5a7467799a9556cb5f185",
+           "index": 4
+          }
+         }
+        ],
+        "mainRelation": {
+         "kind": "SimpleRelation",
+         "id": "92f23b6376ce649f741f72af53ce4b98f80c0124e66d1b6840610d74b2425ade",
+         "index": 3
+        }
+       }
+      },
+      "inNames": [
+       ".ci",
+       ".ri",
+       "STKQC.ds00.checked_input",
+       "92f23b6376ce649f741f72af53ce4b98f80c0124e66d1b6840610d74b2425ade._rids",
+       "92f23b6376ce649f741f72af53ce4b98f80c0124e66d1b6840610d74b2425ade.tlbId",
+       "ETS.ds1..Barcode",
+       "ETS.ds1..Row",
+       "ETS.ds1..Cycle",
+       "bc222949d803e0fab6296ae0222e3ebeb381fe7a1dc5a7467799a9556cb5f185._rids",
+       "bc222949d803e0fab6296ae0222e3ebeb381fe7a1dc5a7467799a9556cb5f185.tlbId",
+       "ETS.ds1..ID",
+       "6b9196f9b21ccaa1854cb774cb51f662786a255f69aa978d6b8d155ca59eaf6f._rids",
+       "6b9196f9b21ccaa1854cb774cb51f662786a255f69aa978d6b8d155ca59eaf6f.tlbId",
+       "ETS.ds1..Barcode",
+       "ETS.ds1..Row",
+       "ETS.ds1..Cycle",
+       "ETS.ds1..ID"
+      ],
+      "outNames": [
+       ".ci",
+       ".ri",
+       "STKQC.ds00.checked_input",
+       "92f23b6376ce649f741f72af53ce4b98f80c0124e66d1b6840610d74b2425ade._rids",
+       "92f23b6376ce649f741f72af53ce4b98f80c0124e66d1b6840610d74b2425ade.tlbId",
+       "ETS.ds1..Barcode",
+       "ETS.ds1..Row",
+       "ETS.ds1..Cycle",
+       "bc222949d803e0fab6296ae0222e3ebeb381fe7a1dc5a7467799a9556cb5f185._rids",
+       "bc222949d803e0fab6296ae0222e3ebeb381fe7a1dc5a7467799a9556cb5f185.tlbId",
+       "ETS.ds1..ID",
+       "6b9196f9b21ccaa1854cb774cb51f662786a255f69aa978d6b8d155ca59eaf6f._rids",
+       "6b9196f9b21ccaa1854cb774cb51f662786a255f69aa978d6b8d155ca59eaf6f.tlbId",
+       "STKQC.ds00..Barcode",
+       "STKQC.ds00..Row",
+       "STKQC.ds00..Cycle",
+       "STKQC.ds00..ID"
+      ]
+     }
+    }
+   ],
+   "mainRelation": {
+    "kind": "RenameRelation",
+    "id": "e8af6d3d-72d0-4eb9-ae6f-c973b8021396",
+    "relation": {
+     "kind": "CompositeRelation",
+     "id": "ae5258dc-612a-4280-99d1-41b01bc730bd",
+     "joinOperators": [
+      {
+       "kind": "JoinOperator",
+       "joinType": "leftOuter",
+       "leftPair": {
+        "kind": "ColumnPair",
+        "lColumns": [
+         ".ri"
+        ],
+        "rColumns": [
+         "57ca6e6878951c5c3ae9a37b9c65b7c39287af5040364d7bca9466c15612f197._rids"
+        ]
+       },
+       "rightRelation": {
+        "kind": "SimpleRelation",
+        "id": "57ca6e6878951c5c3ae9a37b9c65b7c39287af5040364d7bca9466c15612f197",
+        "index": 2
+       }
+      }
+     ],
+     "mainRelation": {
+      "kind": "CompositeRelation",
+      "id": "43826e07-b384-4292-b6ef-532e6d6d8f0a",
+      "joinOperators": [
+       {
+        "kind": "JoinOperator",
+        "joinType": "leftOuter",
+        "leftPair": {
+         "kind": "ColumnPair",
+         "lColumns": [
+          ".ci"
+         ],
+         "rColumns": [
+          "d231a54be02b0b4459d73a12a8c99d7b82a3d76ce1310fdbef367242dbca7be7._rids"
+         ]
+        },
+        "rightRelation": {
+         "kind": "SimpleRelation",
+         "id": "d231a54be02b0b4459d73a12a8c99d7b82a3d76ce1310fdbef367242dbca7be7",
+         "index": 1
+        }
+       }
+      ],
+      "mainRelation": {
+       "kind": "SimpleRelation",
+       "id": "a85fdeef2e860a02b8a0e46ff8a3b34b8b31924ec4e7ea1cb9eb5cca0eabeed3",
+       "index": 0
+      }
+     }
+    },
+    "inNames": [
+     ".ri",
+     ".ci",
+     "ETS.ds1.S100",
+     "a85fdeef2e860a02b8a0e46ff8a3b34b8b31924ec4e7ea1cb9eb5cca0eabeed3._rids",
+     "a85fdeef2e860a02b8a0e46ff8a3b34b8b31924ec4e7ea1cb9eb5cca0eabeed3.tlbId",
+     "js1.Barcode",
+     "ds0.Cycle",
+     "js1.Row",
+     "d231a54be02b0b4459d73a12a8c99d7b82a3d76ce1310fdbef367242dbca7be7._rids",
+     "d231a54be02b0b4459d73a12a8c99d7b82a3d76ce1310fdbef367242dbca7be7.tlbId",
+     "ds1.ID",
+     "57ca6e6878951c5c3ae9a37b9c65b7c39287af5040364d7bca9466c15612f197._rids",
+     "57ca6e6878951c5c3ae9a37b9c65b7c39287af5040364d7bca9466c15612f197.tlbId",
+     "js1.Barcode",
+     "ds0.Cycle",
+     "js1.Row",
+     "ds1.ID"
+    ],
+    "outNames": [
+     ".ri",
+     ".ci",
+     "ETS.ds1.S100",
+     "a85fdeef2e860a02b8a0e46ff8a3b34b8b31924ec4e7ea1cb9eb5cca0eabeed3._rids",
+     "a85fdeef2e860a02b8a0e46ff8a3b34b8b31924ec4e7ea1cb9eb5cca0eabeed3.tlbId",
+     "js1.Barcode",
+     "ds0.Cycle",
+     "js1.Row",
+     "d231a54be02b0b4459d73a12a8c99d7b82a3d76ce1310fdbef367242dbca7be7._rids",
+     "d231a54be02b0b4459d73a12a8c99d7b82a3d76ce1310fdbef367242dbca7be7.tlbId",
+     "ds1.ID",
+     "57ca6e6878951c5c3ae9a37b9c65b7c39287af5040364d7bca9466c15612f197._rids",
+     "57ca6e6878951c5c3ae9a37b9c65b7c39287af5040364d7bca9466c15612f197.tlbId",
+     "ETS.ds1..Barcode",
+     "ETS.ds1..Cycle",
+     "ETS.ds1..Row",
+     "ETS.ds1..ID"
+    ]
+   }
+  },
+  "colColumns": [
+   {
+    "kind": "Factor",
+    "name": "ETS.ds1..Barcode",
+    "type": "string"
+   },
+   {
+    "kind": "Factor",
+    "name": "ETS.ds1..Row",
+    "type": "double"
+   },
+   {
+    "kind": "Factor",
+    "name": "ETS.ds1..Cycle",
+    "type": "double"
+   }
+  ],
+  "rowColumns": [
+   {
+    "kind": "Factor",
+    "name": "ETS.ds1..ID",
+    "type": "string"
+   }
+  ],
+  "axisQueries": [
+   {
+    "kind": "CubeAxisQuery",
+    "pointSize": 4,
+    "chartType": "point",
+    "yAxis": {
+     "kind": "Factor",
+     "name": "STKQC.ds00.checked_input",
+     "type": "double"
+    },
+    "yAxisSettings": {
+     "kind": "AxisSettings",
+     "meta": []
+    },
+    "xAxis": {
+     "kind": "Factor",
+     "name": "",
+     "type": "string"
+    },
+    "xAxisSettings": {
+     "kind": "AxisSettings",
+     "meta": []
+    },
+    "errors": [],
+    "labels": [],
+    "colors": [],
+    "preprocessors": []
+   }
+  ],
+  "filters": {
+   "kind": "Filters",
+   "removeNaN": false,
+   "namedFilters": []
+  },
+  "operatorSettings": {
+   "kind": "OperatorSettings",
+   "namespace": "STKQC.ds20",
+   "operatorRef": {
+    "kind": "OperatorRef",
+    "name": "Log Cutoff",
+    "version": "0.1.1",
+    "operatorId": "0",
+    "operatorKind": "ROperator",
+    "propertyValues": [
+     {
+      "kind": "PropertyValue",
+      "name": "Treatment of negative values",
+      "value": "Mask at cut-off"
+     },
+     {
+      "kind": "PropertyValue",
+      "name": "cut-off",
+      "value": "1"
+     },
+     {
+      "kind": "PropertyValue",
+      "name": "logBase",
+      "value": "2"
+     }
+    ],
+    "url": {
+     "kind": "Url",
+     "uri": "https://github.com/pamgene/log_cutoff_operator"
+    },
+    "operatorSpec": {
+     "kind": "OperatorSpec",
+     "ontologyUri": "",
+     "ontologyVersion": "",
+     "inputSpecs": [],
+     "outputSpecs": []
+    }
+   },
+   "environment": [],
+   "operatorModel": {
+    "kind": "OperatorModel"
+   }
+  },
+  "qtHash": "",
+  "columnHash": "",
+  "rowHash": ""
+ }
+}
