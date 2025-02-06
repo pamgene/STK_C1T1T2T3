@@ -1,6 +1,6 @@
 {
  "kind": "Workflow",
- "id": "17",
+ "id": "20",
  "isDeleted": false,
  "rev": "",
  "description": "STK workflow with one control and three treatments",
@@ -1265,398 +1265,398 @@
   },
   {
    "kind": "Link",
-   "id": "1ab03ce1-48b3-4b43-b7c1-9f5923f61e0b",
-   "inputId": "0903f186-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f184-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "428afdcb-ecd3-4352-b9b8-88c5f3dae4ee",
+   "inputId": "753cd705-1a7f-1302-847d-73580e8182cd",
+   "outputId": "753cd703-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "bf3f3a8d-e9ce-49f2-9e70-d910ded3720d",
-   "inputId": "0903f180-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f187-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "db0a9946-8623-476b-93ef-3a8441c7d74f",
+   "inputId": "74a44081-1a7f-1302-847d-73580e8182cd",
+   "outputId": "753cd706-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "8360425c-e0f2-4b21-b987-b6e1472a23e3",
-   "inputId": "0903f189-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f181-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "1ce4a4c5-71ba-40b2-a8b5-4ea344deb033",
+   "inputId": "75d56d80-1a7f-1302-847d-73580e8182cd",
+   "outputId": "753cd700-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "7d9e4a3c-98a5-4b13-9242-5c4603af8dd4",
-   "inputId": "0903f18f-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f18a-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "8b5640d5-bebd-4b39-8d04-68caa4998921",
+   "inputId": "75d56d86-1a7f-1302-847d-73580e8182cd",
+   "outputId": "75d56d81-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "133e149b-dc37-46a1-9dee-651429d41ba1",
-   "inputId": "0903f18c-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f190-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "e39f7c1a-de08-4c54-b347-43b729cd6577",
+   "inputId": "75d56d83-1a7f-1302-847d-73580e8182cd",
+   "outputId": "75d56d87-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "130fea3c-c95f-4979-b0f1-81fd256b3b16",
-   "inputId": "0903f192-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f18d-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "3b62a3dd-b23c-4ff3-ba8e-7d53305dfa38",
+   "inputId": "75d56d89-1a7f-1302-847d-73580e8182cd",
+   "outputId": "75d56d84-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "1de57265-0dc7-43f5-9eb1-917f9753c841",
-   "inputId": "0903f194-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f190-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "3254dc72-ea68-4c3f-bf66-61529b39fca0",
+   "inputId": "766e0400-1a7f-1302-847d-73580e8182cd",
+   "outputId": "75d56d87-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "a01103ee-18c1-4823-b04b-e955a772cc25",
-   "inputId": "0903f183-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f198-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "a66ca4a1-e1fd-4bf1-b73d-b4abbc4c4504",
+   "inputId": "753cd702-1a7f-1302-847d-73580e8182cd",
+   "outputId": "766e0404-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "2c526866-19cb-44cf-b4a3-3b332fcb936b",
-   "inputId": "0903f197-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f19b-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "b14617f7-a2bc-46a2-9a48-2b382bd3cf0f",
+   "inputId": "766e0403-1a7f-1302-847d-73580e8182cd",
+   "outputId": "766e0407-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "e95b72ac-8f3d-4600-9e7b-1a435d94e26d",
-   "inputId": "0903f19d-bafa-1021-b9b8-f9ceebae1db7",
-   "outputId": "0903f181-bafa-1021-b9b8-f9ceebae1db7"
+   "id": "47082014-47e5-49d1-886d-6b1835cd1e53",
+   "inputId": "766e0409-1a7f-1302-847d-73580e8182cd",
+   "outputId": "753cd700-1a7f-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "51154119-112b-4a81-9521-e3126612c2a0",
-   "inputId": "0903f19a-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "a875f4b1-ca40-45ba-aeb7-5ddc0e6ba1e1",
+   "inputId": "766e0406-1a7f-1302-847d-73580e8182cd",
    "outputId": "1b012fb9-9a51-4f2c-bde2-a8a07544116f-o-0"
   },
   {
    "kind": "Link",
-   "id": "026d4a0b-2dfb-4e50-9b7f-09f67bdf7a1b",
-   "inputId": "60bb5083-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb5081-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "834fe8d0-468b-43fc-b3bb-359589f69b2d",
+   "inputId": "9f82a906-1b00-1302-847d-73580e8182cd",
+   "outputId": "9f82a904-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "54a678c7-a3bc-428d-929d-fbc34757bbed",
-   "inputId": "6022ba01-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb5084-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "2bdd5b2d-9fdc-4b4f-aed3-11f54d9cfd9c",
+   "inputId": "9f82a900-1b00-1302-847d-73580e8182cd",
+   "outputId": "9f82a907-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "4697618d-ac4a-4c36-8dff-095d4b1578ce",
-   "inputId": "60bb5086-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "6022ba02-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "c589028b-81e6-4057-9987-8550a87b94d3",
+   "inputId": "9f82a909-1b00-1302-847d-73580e8182cd",
+   "outputId": "9f82a901-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "d88846ff-c3e6-4450-9dd8-5ee1d1530659",
-   "inputId": "60bb508c-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb5087-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "92ae3bca-b191-42c1-bc90-095520dc7884",
+   "inputId": "a0b3d603-1b00-1302-847d-73580e8182cd",
+   "outputId": "9f82a90a-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "8fd4d1ff-955a-4bec-bdca-5e5209b482c8",
-   "inputId": "60bb5089-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb508d-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "cd03f737-5e5f-4d1c-b154-a13347cd9d8c",
+   "inputId": "a0b3d600-1b00-1302-847d-73580e8182cd",
+   "outputId": "a0b3d604-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "f045a362-caca-45cf-a082-b7fd125b8ebb",
-   "inputId": "60bb508f-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb508a-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "2dc1e429-ac27-4573-94e8-fe309949318f",
+   "inputId": "a0b3d606-1b00-1302-847d-73580e8182cd",
+   "outputId": "a0b3d601-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "97c0e50d-7e64-4089-9f92-72cbc127a5a2",
-   "inputId": "60bb5091-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb508d-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "f5f16d45-f8df-4936-8785-b0f0cd9631a0",
+   "inputId": "a0b3d608-1b00-1302-847d-73580e8182cd",
+   "outputId": "a0b3d604-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "1206e160-f9ed-463e-9bca-94530378f86c",
-   "inputId": "60bb5080-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb5095-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "161c8b5b-53d8-41d2-a414-d2bbdc77b087",
+   "inputId": "9f82a903-1b00-1302-847d-73580e8182cd",
+   "outputId": "a1e50301-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "5368d616-52dc-4e53-ac8b-83b38d835926",
-   "inputId": "60bb5094-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "60bb5098-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "86423e7f-f5f1-4b02-b18a-ce459eaf8988",
+   "inputId": "a1e50300-1b00-1302-847d-73580e8182cd",
+   "outputId": "a1e50304-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "d26aadfc-c563-4138-b09d-f67cfc6cc63a",
-   "inputId": "6153e700-bb2c-1021-b9b8-f9ceebae1db7",
-   "outputId": "6022ba02-bb2c-1021-b9b8-f9ceebae1db7"
+   "id": "575da266-f196-4196-bbae-878db1e2a543",
+   "inputId": "a1e50306-1b00-1302-847d-73580e8182cd",
+   "outputId": "9f82a901-1b00-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "bf8a5986-6d61-49f3-8a22-4910ea3f1116",
-   "inputId": "60bb5097-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "291d315a-8682-47d4-9ab9-1303440b1c75",
+   "inputId": "a1e50303-1b00-1302-847d-73580e8182cd",
    "outputId": "f0293b6f-d391-4c66-8ce6-896e3b338d0f-o-0"
   },
   {
    "kind": "Link",
-   "id": "93331c70-0579-42eb-a407-5a29f0d658ba",
-   "inputId": "a8f56580-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a85ccf02-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "96e11028-b222-423a-ae24-73457ea64d40",
+   "inputId": "f7f98b00-1b80-1302-847d-73580e8182cd",
+   "outputId": "f760f482-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "c105de73-9e18-4086-8224-04f42e93e2e5",
-   "inputId": "a8f56583-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f56581-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "2c525913-224d-46c2-8992-9ab5d98b6a9b",
+   "inputId": "f7f98b03-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b01-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "0a81b894-bef9-4aae-a16c-586aeb21ff31",
-   "inputId": "a8f56586-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f56584-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "1246b727-f237-4e45-a9d5-b9d635e9ac09",
+   "inputId": "f7f98b06-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b04-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "587eb877-0198-4946-ad85-82e77bc0e89c",
-   "inputId": "a8f56589-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f56587-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "4b6cb3fa-13df-4e7a-b5a0-f8fa4ee17727",
+   "inputId": "f7f98b09-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b07-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "74073bc1-d44e-4037-8419-eb748fc1dd84",
-   "inputId": "a8f5658c-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f5658a-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "2c83af4b-add1-48ba-9b08-5ebcfdbec778",
+   "inputId": "f7f98b0c-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b0a-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "e9e8fc84-311e-4618-b13a-cce4f9d9b900",
-   "inputId": "a8f5658f-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f5658d-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "c16856a4-227a-4dcd-a136-6b394ff33053",
+   "inputId": "f7f98b0f-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b0d-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "a127f834-7b88-4509-bf81-db8266c05cb8",
-   "inputId": "a8f56591-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f5658a-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "6dced35c-07c9-4a8c-a0f0-bfc0e05cf83c",
+   "inputId": "f7f98b11-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b0a-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "b0e59ae2-7542-4460-96b3-bc29d26bd9a0",
-   "inputId": "a85ccf01-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f56595-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "f8fe4a80-7c14-4082-ac1f-9d94b5a39fcc",
+   "inputId": "f760f481-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b15-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "18dd1105-6aab-4310-8aee-f1303d36d33e",
-   "inputId": "a8f56594-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f56598-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "0fd9b4df-5c04-4e3d-a652-e7f191df7e04",
+   "inputId": "f7f98b14-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b18-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "24d26b1c-cf31-4cc5-8a90-23bcc3d1c098",
-   "inputId": "a8f5659a-bb62-1021-b9b8-f9ceebae1db7",
-   "outputId": "a8f56584-bb62-1021-b9b8-f9ceebae1db7"
+   "id": "90a3ed3d-3f9e-4726-9435-bbb1a9137f43",
+   "inputId": "f7f98b1a-1b80-1302-847d-73580e8182cd",
+   "outputId": "f7f98b04-1b80-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "29b4a449-64c4-4098-89ed-4b75bd579833",
-   "inputId": "a8f56597-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "e7715907-002d-4e48-834d-fc6537cfc2b6",
+   "inputId": "f7f98b17-1b80-1302-847d-73580e8182cd",
    "outputId": "ad77b8e8-3342-4317-81bf-2dcb3191c85f-o-0"
   },
   {
    "kind": "Link",
-   "id": "f4d59bb8-ea57-4437-9ac3-8f420c1581f3",
-   "inputId": "96405800-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "95a7c184-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "1c46f971-aa24-43aa-a35d-282ae82e0df4",
+   "inputId": "355c2803-1c16-1302-847d-73580e8182cd",
+   "outputId": "355c2801-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "07da8ab2-f373-40b8-8753-b28963ccb000",
-   "inputId": "95a7c180-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "96405801-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "dc755630-a00c-4b94-988f-1608b07422c4",
+   "inputId": "34c39181-1c16-1302-847d-73580e8182cd",
+   "outputId": "355c2804-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "d07067e1-7f25-4f5e-b5e9-ba65fdc25e45",
-   "inputId": "96405803-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "95a7c181-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "d57efaa6-b826-4a3e-a272-00c99dab2639",
+   "inputId": "355c2806-1c16-1302-847d-73580e8182cd",
+   "outputId": "34c39182-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "f7d923db-9a9e-43d3-ba0a-2c558f9d8841",
-   "inputId": "96d8ee80-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "96405804-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "715ef1c8-9b90-4ebc-abe6-5a0156813f16",
+   "inputId": "35f4be80-1c16-1302-847d-73580e8182cd",
+   "outputId": "355c2807-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "4610fe37-bc8c-4e28-adf1-50e9652cc3f3",
-   "inputId": "96405806-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "96d8ee81-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "54e549bd-5f88-4784-b943-00a5e23bc3d0",
+   "inputId": "355c2809-1c16-1302-847d-73580e8182cd",
+   "outputId": "35f4be81-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "6dd94cac-e680-492c-a946-69f410d3bf50",
-   "inputId": "96d8ee83-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "96405807-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "49741651-8d82-46c7-942f-433cd171d213",
+   "inputId": "35f4be83-1c16-1302-847d-73580e8182cd",
+   "outputId": "355c280a-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "17fa17af-4dd3-4e59-87e6-a9f52be11739",
-   "inputId": "97718500-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "96d8ee81-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "0926252b-c7cb-47db-bdbd-aa0edf9c7aba",
+   "inputId": "35f4be85-1c16-1302-847d-73580e8182cd",
+   "outputId": "35f4be81-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "4db44eea-65c1-4f61-b218-b0b29303fa1a",
-   "inputId": "95a7c183-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "97718504-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "dc19b85a-ed49-4e16-8936-0808bc5f7ac0",
+   "inputId": "355c2800-1c16-1302-847d-73580e8182cd",
+   "outputId": "3725eb81-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "99a492e4-2415-416c-92c4-eee1db733460",
-   "inputId": "97718503-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "980a1b81-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "d326dca1-45ac-4243-b316-7afb92fd6371",
+   "inputId": "3725eb80-1c16-1302-847d-73580e8182cd",
+   "outputId": "3725eb84-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "cf4193dd-a3b2-4cc3-b015-33c6ae61f5d2",
-   "inputId": "980a1b83-bb85-1021-b9b8-f9ceebae1db7",
-   "outputId": "95a7c181-bb85-1021-b9b8-f9ceebae1db7"
+   "id": "43cb962b-8dd4-4d1c-949d-ba9da54d6053",
+   "inputId": "3725eb86-1c16-1302-847d-73580e8182cd",
+   "outputId": "34c39182-1c16-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "50e7eda4-6def-493e-9bd6-adb7199c8085",
-   "inputId": "980a1b80-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "a5f05081-f108-4aa8-8c13-d58f5c606709",
+   "inputId": "3725eb83-1c16-1302-847d-73580e8182cd",
    "outputId": "b861faa0-c896-4824-ab77-0a1ee5544f0b-o-0"
   },
   {
    "kind": "Link",
-   "id": "3036a481-9aba-4af9-9740-4053188805ce",
-   "inputId": "2fd42d87-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d85-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "5039afc1-45d1-4691-a54a-15421b95e25e",
+   "inputId": "a39afc00-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a3026585-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "ed4f5f1d-7cbb-466d-b413-56aa98d74a0b",
-   "inputId": "2fd42d81-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d88-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "e17a216c-a2f5-46e3-8710-40cca392597e",
+   "inputId": "a3026581-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc01-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "bf65bd7e-7e39-48ca-8671-40379410eab7",
-   "inputId": "2fd42d8a-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d82-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "f81c61ce-7d0f-4b0e-98b2-bacc6ec33475",
+   "inputId": "a39afc03-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a3026582-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "838870c1-a927-4ba2-9176-c96b07a9244a",
-   "inputId": "2fd42d90-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d8b-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "36c0dda2-1303-435e-9bc8-3ed1df77ea60",
+   "inputId": "a39afc09-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc04-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "89d22b65-5113-4287-9077-c82a7c132213",
-   "inputId": "2fd42d8d-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d91-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "3fba75ae-9e5a-4e81-8188-2b0f014e578e",
+   "inputId": "a39afc06-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc0a-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "24dbbbab-e4e2-46ca-ba15-339c6042f566",
-   "inputId": "2fd42d93-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d8e-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "cb3cfae4-f888-4816-bde6-fdac50325c92",
+   "inputId": "a39afc0c-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc07-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "34f8f2e0-74f1-493c-a687-d46f82d6b112",
-   "inputId": "306cc400-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d91-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "2a8197ab-6439-478b-ba4a-723d069ff635",
+   "inputId": "a39afc0e-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc0a-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "14684a77-f392-411c-8bb5-feaef1c7284a",
-   "inputId": "2fd42d84-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "306cc404-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "158b7282-8ccf-4671-b3e7-2e4aee7b8bcc",
+   "inputId": "a3026584-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc12-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "3ddb167a-238e-4f21-8762-75784d9137ff",
-   "inputId": "306cc403-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "306cc407-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "559b0d2c-3095-4878-8fb3-1893a5496239",
+   "inputId": "a39afc11-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a39afc15-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "df6cabe8-facf-4fea-a137-cdb201f1d5d8",
-   "inputId": "306cc409-bbb7-1021-b9b8-f9ceebae1db7",
-   "outputId": "2fd42d82-bbb7-1021-b9b8-f9ceebae1db7"
+   "id": "19ede926-0e12-4c18-a251-5ecf1ba71c5a",
+   "inputId": "a39afc17-1ca3-1302-847d-73580e8182cd",
+   "outputId": "a3026582-1ca3-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "057c7686-c3a2-468d-9ab3-eee69ff9dda4",
-   "inputId": "306cc406-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "2906b905-37b2-4a78-966b-3d968e58a6a9",
+   "inputId": "a39afc14-1ca3-1302-847d-73580e8182cd",
    "outputId": "30d4fd3f-70c9-4c5e-9da3-a3402128f8be-o-0"
   },
   {
    "kind": "Link",
-   "id": "9f58c5ed-2fa9-4465-babb-26358071d390",
-   "inputId": "fb219f83-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f81-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "11b5e67a-ee53-43a8-9f97-035db6a74c2e",
+   "inputId": "04691980-1d22-1302-847d-73580e8182cd",
+   "outputId": "03d08301-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "5bfa6488-9999-46d4-a991-d7c8b44ef046",
-   "inputId": "fb219f86-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f84-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "cb1dc796-c80f-4a5c-b043-187254b18784",
+   "inputId": "04691983-1d22-1302-847d-73580e8182cd",
+   "outputId": "04691981-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "2e620999-d5cd-4d35-8849-6b0834465c27",
-   "inputId": "fb219f89-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f87-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "0273d577-f67d-4d08-b06c-d047f9365833",
+   "inputId": "0501b002-1d22-1302-847d-73580e8182cd",
+   "outputId": "0501b000-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "30471fb7-39a0-458c-a88f-aacfd6d06b28",
-   "inputId": "fb219f8c-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f8a-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "8bcb49b1-6c3b-4034-8840-27e16545c167",
+   "inputId": "0501b005-1d22-1302-847d-73580e8182cd",
+   "outputId": "0501b003-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "7b0826da-f975-4a0e-be92-cceb01df9f65",
-   "inputId": "fb219f8f-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f8d-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "77b96f3d-898e-4b97-a75c-96fec36d0288",
+   "inputId": "0632dd00-1d22-1302-847d-73580e8182cd",
+   "outputId": "0501b006-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "fd6def70-616e-4225-bf9f-da8a1983a723",
-   "inputId": "fb219f92-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f90-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "41603c56-e56d-422c-ae28-b14d938bd6a8",
+   "inputId": "0632dd03-1d22-1302-847d-73580e8182cd",
+   "outputId": "0632dd01-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "91afce61-85b3-4380-8faf-d3063a472c1b",
-   "inputId": "fb219f94-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f8d-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "183f1e69-3d9e-4fdf-ba2d-7d0bc2f855b5",
+   "inputId": "06cb7380-1d22-1302-847d-73580e8182cd",
+   "outputId": "0501b006-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "45d64dc1-a233-4a15-b127-4a2c2421aeab",
-   "inputId": "fb219f80-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fbba3601-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "26a31d2d-6cd9-4a2e-91b1-b5abf06efafd",
+   "inputId": "03d08300-1d22-1302-847d-73580e8182cd",
+   "outputId": "07640a01-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "86438244-0cfb-4d69-9420-d807e8c8c61a",
-   "inputId": "fbba3600-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fbba3604-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "96196a9d-42af-4bc1-af8b-28cb24ce8918",
+   "inputId": "07640a00-1d22-1302-847d-73580e8182cd",
+   "outputId": "07640a04-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "a2d8194c-c297-4ab7-a991-506f9212ca91",
-   "inputId": "fbba3606-bbd1-1021-b9b8-f9ceebae1db7",
-   "outputId": "fb219f87-bbd1-1021-b9b8-f9ceebae1db7"
+   "id": "d41ee4b9-88c4-4ee5-b352-096546ea49a3",
+   "inputId": "07640a06-1d22-1302-847d-73580e8182cd",
+   "outputId": "0501b000-1d22-1302-847d-73580e8182cd"
   },
   {
    "kind": "Link",
-   "id": "b2cccccd-cad4-4b13-aa8a-798b3645e703",
-   "inputId": "fbba3603-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "2bbb295b-bfc4-4498-b671-4018e1c2e4f0",
+   "inputId": "07640a03-1d22-1302-847d-73580e8182cd",
    "outputId": "14f6ba7a-740a-4cc5-8867-c468c8c7cdd9-o-0"
   }
  ],
@@ -1957,7 +1957,7 @@
       "kind": "OperatorRef",
       "name": "Log Cutoff",
       "version": "0.1.3",
-      "operatorId": "21",
+      "operatorId": "18",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -2053,7 +2053,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "7d970bb5-44a2-4caa-9167-fdd78560493f"
+    "id": "59554611-d0d3-4dd3-91c0-59aa8a94b43c"
    },
    "parentDataStepId": ""
   },
@@ -2096,9 +2096,10 @@
     "kind": "TableStepModel",
     "relation": {
      "kind": "UnionRelation",
-     "id": "d9c314eb-8d1e-4af2-8c6a-493f08fa68c9",
+     "id": "d998935f-17ae-4998-92f9-aa2e618b6d06",
      "relations": []
-    }
+    },
+    "filterSelector": ""
    }
   },
   {
@@ -2324,7 +2325,7 @@
       }
      ],
      "rectangleSelections": [],
-     "nRows": 12
+     "nRows": 1
     },
     "filters": {
      "kind": "Filters",
@@ -2452,13 +2453,13 @@
       }
      ],
      "rectangleSelections": [],
-     "nRows": 142
+     "nRows": 1
     },
     "taskId": ""
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "083250ce-382e-4ea2-8de9-a0aaa4a88a5a"
+    "id": "a92024d0-3f87-4c3a-939c-7ce3310238c1"
    },
    "parentDataStepId": ""
   },
@@ -2839,7 +2840,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "60ee2049-1e28-4d5c-b2dd-dbac4bca90d5"
+    "id": "d6527c18-dc58-4dbf-ad54-4191752d0394"
    },
    "parentDataStepId": ""
   },
@@ -3086,7 +3087,7 @@
       "kind": "OperatorRef",
       "name": "DASCombat Shiny operator",
       "version": "0.5.3",
-      "operatorId": "16",
+      "operatorId": "19",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -3166,7 +3167,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "adda30e7-100d-4521-b2ec-fedf20ac16ee"
+    "id": "98f9a7c1-8206-40b2-b0da-b64b73750a40"
    },
    "parentDataStepId": ""
   },
@@ -3547,7 +3548,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6e8e5f4e-912e-47d3-aa6e-fdaf6b0d5965"
+    "id": "3482071f-8464-4ec9-bd5d-af68d69aabca"
    },
    "parentDataStepId": ""
   },
@@ -3794,7 +3795,7 @@
       "kind": "OperatorRef",
       "name": "DASCombat Shiny operator",
       "version": "0.5.3",
-      "operatorId": "16",
+      "operatorId": "19",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -3859,7 +3860,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c0f2f573-bc09-48a1-8c29-5474f3815b2c"
+    "id": "22f61266-876b-45d3-9861-e5192c775c5c"
    },
    "parentDataStepId": ""
   },
@@ -4221,7 +4222,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c7933e2c-1e5d-4bf6-9a26-cf97c3238e80"
+    "id": "575c6330-360a-4c62-96b3-37d98d67977d"
    },
    "parentDataStepId": ""
   },
@@ -4628,7 +4629,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "f550674b-b3e1-427c-b91d-5beb909d815f"
+    "id": "fd1e7c75-a899-4ce1-85d5-c256f50825cd"
    },
    "parentDataStepId": ""
   },
@@ -4966,7 +4967,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0aa41a16-3d57-4b66-8c41-8ab6a2af3601"
+    "id": "98bd5e36-0990-49d6-a211-3e113ab50f5a"
    },
    "parentDataStepId": ""
   },
@@ -5373,7 +5374,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b968c504-dc36-4246-b309-e89bdbd085b0"
+    "id": "59eb56e9-262e-4da6-9a00-6a22c1d9c364"
    },
    "parentDataStepId": ""
   },
@@ -5455,9 +5456,10 @@
     "kind": "TableStepModel",
     "relation": {
      "kind": "UnionRelation",
-     "id": "da6d9ccf-7cc1-492f-981c-44cc45ef7d41",
+     "id": "a8d23cbb-4f82-4205-bf79-fc2149ad3c80",
      "relations": []
-    }
+    },
+    "filterSelector": ""
    }
   },
   {
@@ -5808,7 +5810,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a9afdbc2-5476-427b-9d86-ebd7006d682c"
+    "id": "38058881-7954-4da5-9405-64aea069f2db"
    },
    "parentDataStepId": ""
   },
@@ -6081,7 +6083,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "7f2e0995-4227-47ca-b0e3-7ea70aa720e8"
+    "id": "d113d2b5-9568-45a6-9c41-769dab0d6fee"
    },
    "parentDataStepId": ""
   },
@@ -6368,7 +6370,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "01fc8a4f-712e-4c9f-9545-595affc8f4ba"
+    "id": "851ee931-2f75-4648-b2ea-a640ddb77be6"
    },
    "parentDataStepId": ""
   },
@@ -6744,7 +6746,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "04fef5e2-4217-4ef9-bd89-7785dea95293"
+    "id": "f117525e-e880-47cc-bb8d-fc6f21d92033"
    },
    "parentDataStepId": ""
   },
@@ -7530,7 +7532,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6a4e46c5-9dfa-4ad1-803e-226bcea569c8"
+    "id": "78385d1e-41cf-467f-aa43-b0f4a22e62da"
    },
    "parentDataStepId": ""
   },
@@ -7820,7 +7822,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "58957acc-af5a-4e9d-a428-c063c997c11a"
+    "id": "165a0823-9be9-43ac-ab5e-fcbabec9e5c9"
    },
    "parentDataStepId": ""
   },
@@ -8142,7 +8144,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c3c72056-f5c7-4bad-bbc7-00669bc16e06"
+    "id": "6a7954fe-a56e-43f6-845c-db6abdf1f742"
    },
    "parentDataStepId": ""
   },
@@ -8568,7 +8570,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c371b342-d3cc-4be3-a8c3-8135494f6172"
+    "id": "7ba90993-a730-4c1a-8099-a529a9cea667"
    },
    "parentDataStepId": ""
   },
@@ -9226,7 +9228,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1aca1876-4818-4565-810f-34d3eca8e2c0"
+    "id": "ad09e339-c63b-4448-bcb5-268f3bf73e5a"
    },
    "parentDataStepId": ""
   },
@@ -9577,7 +9579,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6b5bebc9-218c-4498-b2cd-8ec851ae7c78"
+    "id": "f7b5feb1-8ad0-46be-ba4e-6d7297012207"
    },
    "parentDataStepId": ""
   },
@@ -9899,7 +9901,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1860bb4b-6790-460a-aa86-895441bb0efe"
+    "id": "ef6fe8b9-8971-4a1a-8f57-a3048f12c659"
    },
    "parentDataStepId": ""
   },
@@ -10240,7 +10242,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c6e12ad6-f6a9-46bd-a25b-07baee403c70"
+    "id": "e69b1a49-d905-42df-8f34-90f1b7e83e75"
    },
    "parentDataStepId": ""
   },
@@ -10561,7 +10563,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "96c9b423-4e06-473b-844d-0f9ae871ef55"
+    "id": "6099dd26-17fb-4c91-8baf-ff5214fb7649"
    },
    "parentDataStepId": ""
   },
@@ -10922,7 +10924,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eae516d1-a754-4a35-b1ab-a01c97325f62"
+    "id": "04884795-4a2a-45f6-92dc-7f4a6b1fee09"
    },
    "parentDataStepId": ""
   },
@@ -11283,7 +11285,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "39e257b3-781d-485b-947a-72e2aa3408ec"
+    "id": "bb105d3a-d379-4117-9fc6-8542fcffdfab"
    },
    "parentDataStepId": ""
   },
@@ -11570,7 +11572,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bbbdfcf6-c131-41a6-94d7-16ba8622a25f"
+    "id": "f083b4be-aa62-498f-a492-a623e5fc49de"
    },
    "parentDataStepId": ""
   },
@@ -11891,7 +11893,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "39eff442-7d0b-4951-ad9f-a3859f51cb1b"
+    "id": "6cd96950-7626-4b00-8ffd-6c977a09fc2a"
    },
    "parentDataStepId": ""
   },
@@ -12183,7 +12185,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "45dd3a47-aa5f-49cd-b2bd-c47327628cad"
+    "id": "525ea9d4-d124-4c62-b652-c18d088bd46b"
    },
    "parentDataStepId": ""
   },
@@ -12687,7 +12689,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b8d66bc2-1958-49d5-91cb-d7dfe9ae767e"
+    "id": "9d87a3f1-bc30-4c2b-a10d-926a8e1f2c86"
    },
    "parentDataStepId": ""
   },
@@ -13059,7 +13061,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "24df5c9c-4d71-4ed6-8afa-814fa719e74a"
+    "id": "50080ac1-8751-45a9-b0ab-3f9064b1468b"
    },
    "parentDataStepId": ""
   },
@@ -13380,7 +13382,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c76c4e7d-2689-4ed5-962e-2783110dd7de"
+    "id": "43c3ac1b-1f24-470e-8b1b-5cd0d2de74b7"
    },
    "parentDataStepId": ""
   },
@@ -13672,7 +13674,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5cae0b2b-0ae2-4f64-94d0-b725f42a123b"
+    "id": "36d27f00-80fd-464b-968f-60a0e2f9601a"
    },
    "parentDataStepId": ""
   },
@@ -14156,7 +14158,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "fd502723-0192-48fd-8a6e-6fbb9d3ddd88"
+    "id": "61ed87d7-5514-4b4a-9de3-4133aade172c"
    },
    "parentDataStepId": ""
   },
@@ -14528,7 +14530,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6f206483-afec-4e8b-bbad-e3d54c9c9f78"
+    "id": "581ab5b7-63eb-4acb-9143-3094c58fa0bd"
    },
    "parentDataStepId": ""
   },
@@ -14849,7 +14851,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e92c5f42-77ac-4d8a-93d7-a101c1f9106b"
+    "id": "3df2234c-698c-4bf4-af5d-042ff65abba0"
    },
    "parentDataStepId": ""
   },
@@ -15141,7 +15143,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "51d69785-7c63-4b43-874e-69c5eb58edf3"
+    "id": "88b193ed-1d9a-425e-9b8e-adde18e4648c"
    },
    "parentDataStepId": ""
   },
@@ -15625,7 +15627,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e8b4b21e-93f6-453c-95c0-0c68f158ad2c"
+    "id": "b1796057-82a7-4536-88e9-baa5cf4bba74"
    },
    "parentDataStepId": ""
   },
@@ -15997,7 +15999,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "8ab18bbb-1561-4e53-bd47-2e16203a5355"
+    "id": "34a592d9-a2a3-4201-be35-af4785011984"
    },
    "parentDataStepId": ""
   },
@@ -16318,7 +16320,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "cc1666e8-47a0-4436-9435-3374d4c21128"
+    "id": "ba185d0c-5764-4ad1-bd9e-ca832ef0b745"
    },
    "parentDataStepId": ""
   },
@@ -16610,7 +16612,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c97bd4a7-ef0e-4b85-a476-b973a64bc1fd"
+    "id": "810e5e83-3303-459e-b4af-f1a79f95d4f6"
    },
    "parentDataStepId": ""
   },
@@ -17094,7 +17096,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "025d01dd-dfa6-479a-a06f-e0b74e84580a"
+    "id": "fd33f438-c9b9-4e99-8754-f7e272ca6842"
    },
    "parentDataStepId": ""
   },
@@ -17458,7 +17460,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "04d6bee7-aa95-46d9-8a4d-e29b7edd9afd"
+    "id": "93d0d19c-c085-4ba1-b6e2-05068d8b7a61"
    },
    "parentDataStepId": ""
   },
@@ -17733,7 +17735,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "146bd5f1-9bc2-458d-b516-5a26740d4f11"
+    "id": "153a2c7f-fef4-4540-919a-5a7719cb38bb"
    },
    "parentDataStepId": ""
   },
@@ -18018,7 +18020,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1d98c2fd-4119-4c26-a317-e14abae43c31"
+    "id": "06db105b-9338-4c79-a6fa-8d1122b44c79"
    },
    "parentDataStepId": ""
   },
@@ -18283,7 +18285,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6b96ada4-3792-49ea-8c69-a4883218be7b"
+    "id": "a3b24731-fa9b-47b3-a378-39b3d7b83a6b"
    },
    "parentDataStepId": ""
   },
@@ -18536,7 +18538,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6382847b-ccda-4cdf-9593-1b0e7594c3eb"
+    "id": "ffab5692-204c-4300-b5e1-7108abc10ddd"
    },
    "parentDataStepId": ""
   },
@@ -18844,7 +18846,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "957fedfd-b13b-4034-82dc-e988fc1497c2"
+    "id": "317ea9d4-5d6f-4dc1-b53d-5eef59abf482"
    },
    "parentDataStepId": ""
   },
@@ -19116,7 +19118,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "80099884-8b21-476d-a50e-81fbce110271"
+    "id": "2b3ed5c4-254a-45a2-8674-6e0551f8008f"
    },
    "parentDataStepId": ""
   },
@@ -19428,7 +19430,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "de12bee5-d76b-4f7f-a61c-b0f3a1d87de3"
+    "id": "c4905be8-9ae5-4aaa-8b3e-a147040d816f"
    },
    "parentDataStepId": ""
   },
@@ -19738,7 +19740,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "3fbc560f-c967-4408-8e9e-d660fc287316"
+    "id": "b30da8f1-2d23-4808-bd5d-e5477c626971"
    },
    "parentDataStepId": ""
   },
@@ -20010,7 +20012,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "27523b65-2e4a-4464-8820-6e05cf8f9286"
+    "id": "1c6ab938-9f55-4f86-8a4d-a71bd32449f4"
    },
    "parentDataStepId": ""
   },
@@ -20470,7 +20472,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0340ad67-54a0-4cb0-bc2e-a9e9c4aa8c3b"
+    "id": "590ae04b-e118-445a-8b5c-4014241f0adc"
    },
    "parentDataStepId": ""
   },
@@ -20754,7 +20756,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "3afc1dcf-c46b-4a16-92aa-ad90baff0f5b"
+    "id": "16113b43-de47-4170-9743-d6f8df437a67"
    },
    "parentDataStepId": ""
   },
@@ -21192,7 +21194,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1b94768e-0503-4d8a-80d1-28c4369c0155"
+    "id": "51b10b47-652b-4401-b326-461fc2dc8f7f"
    },
    "parentDataStepId": ""
   },
@@ -21981,7 +21983,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "93aea8de-5504-4ffa-a83c-0a1002e4beeb"
+    "id": "e53b483d-990c-492c-892c-ff15fc989847"
    },
    "parentDataStepId": ""
   },
@@ -22256,7 +22258,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5aed297c-98aa-4092-9d9d-c600e3275b63"
+    "id": "ba8f1494-87ac-4704-872b-2f33d61c815c"
    },
    "parentDataStepId": ""
   },
@@ -22541,7 +22543,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "edf2895d-cbdf-4bcd-8725-487338ca00a2"
+    "id": "27f897e4-3e7f-40d1-9f4d-779a30ed24d3"
    },
    "parentDataStepId": ""
   },
@@ -22806,7 +22808,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "fa3f5756-0f26-4632-b536-235e33985a75"
+    "id": "bcd77561-cd19-4692-9c4b-9d5dcb52bcaa"
    },
    "parentDataStepId": ""
   },
@@ -23059,7 +23061,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "1b73a0a2-1766-4ea8-a63d-98997e72e80e"
+    "id": "1e7875e9-942d-4d0e-9e9a-cfe8996db42a"
    },
    "parentDataStepId": ""
   },
@@ -23367,7 +23369,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c3a11882-2479-4473-be9f-6e2eb82a2f01"
+    "id": "757725d5-46a7-442a-a870-d1cb99fdc32d"
    },
    "parentDataStepId": ""
   },
@@ -23639,7 +23641,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9e18f884-c061-403f-b150-e2c30d56f3fa"
+    "id": "3fe93800-5131-40cf-8757-106c890c25e7"
    },
    "parentDataStepId": ""
   },
@@ -23951,7 +23953,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "234ff8a8-e4f5-45a0-a730-787beb89a32e"
+    "id": "29b7d61f-9d34-43b6-b1bd-37311e207d88"
    },
    "parentDataStepId": ""
   },
@@ -24261,7 +24263,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5c37bffb-ee76-4fa2-90d9-b6f12e508e44"
+    "id": "c78fff5a-b430-4588-a755-9941b3dbc010"
    },
    "parentDataStepId": ""
   },
@@ -24533,7 +24535,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5ec7611a-5102-4e76-949c-5d06eee36f87"
+    "id": "986b509d-8c5d-454b-af4d-58410816bb0e"
    },
    "parentDataStepId": ""
   },
@@ -24993,7 +24995,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5476d1d1-7b0e-4207-a08d-62268dc933e7"
+    "id": "660c6f61-032d-40a7-b5e6-e6fc2d1e094d"
    },
    "parentDataStepId": ""
   },
@@ -25277,7 +25279,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e3e6acb0-dce3-44b9-9b19-bae4c000073d"
+    "id": "f7b01bca-d2eb-416e-a2ec-5f95e5a8c189"
    },
    "parentDataStepId": ""
   },
@@ -25715,7 +25717,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "fb498e7c-4d93-4e5d-8458-3cc8ba856663"
+    "id": "f3b84b36-f621-41c3-bf2a-06aaf9466515"
    },
    "parentDataStepId": ""
   },
@@ -26470,7 +26472,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ea40ce9a-5b4d-4cfb-ad38-ca77d8b91f60"
+    "id": "21278f46-e848-4649-bc26-9a11152556d2"
    },
    "parentDataStepId": ""
   },
@@ -26745,7 +26747,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "57cce4c0-7fad-4b40-8653-3bf322e552a6"
+    "id": "10c70f89-507e-4c04-9d7f-2b43f1e36bbf"
    },
    "parentDataStepId": ""
   },
@@ -27030,7 +27032,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "8cc3d758-ae06-42e7-9738-6bd4188a463f"
+    "id": "625adb41-741c-4d5a-bf4d-c3a4b7c8d9a5"
    },
    "parentDataStepId": ""
   },
@@ -27295,7 +27297,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ddc567ac-5c3a-4474-9d85-7c76d4c1d0e8"
+    "id": "f8cdf8b9-58dd-4a15-bb15-9d51cab02e21"
    },
    "parentDataStepId": ""
   },
@@ -27548,7 +27550,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e505568d-64b1-4ef3-ba92-00233938e3cc"
+    "id": "4f31877d-6435-4200-a0bd-a2adac7bbb7b"
    },
    "parentDataStepId": ""
   },
@@ -27856,7 +27858,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "aef02802-5389-440d-b889-e1b3e41472cc"
+    "id": "2787cb6f-9c7f-491e-89b8-c4158925f2cf"
    },
    "parentDataStepId": ""
   },
@@ -28128,7 +28130,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "462bad7a-b774-4d1c-9605-ec8d0e8c9596"
+    "id": "c0f29f7c-7a91-4a48-8e9c-bc73e65d8cc8"
    },
    "parentDataStepId": ""
   },
@@ -28440,7 +28442,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "49b9aebf-2743-47ba-887a-6521315e3b83"
+    "id": "554f9111-ea47-412c-994b-42d136b672e6"
    },
    "parentDataStepId": ""
   },
@@ -28750,7 +28752,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "3c2b5c3c-76f7-4f04-892f-b1fc985ed2b4"
+    "id": "37fab42c-92f4-4383-b9a9-b873fbdfc40d"
    },
    "parentDataStepId": ""
   },
@@ -29022,7 +29024,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "52c81861-a04f-4105-b057-dfdcfb978e24"
+    "id": "1b4789f3-2d85-4d68-be72-698440aadbcc"
    },
    "parentDataStepId": ""
   },
@@ -29482,7 +29484,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "77730fac-16d2-42c7-9cf4-6b05309038da"
+    "id": "3471cf59-4335-442a-86e8-bd5061fd0aca"
    },
    "parentDataStepId": ""
   },
@@ -29766,7 +29768,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "69f2c7eb-358d-4cab-ac80-c53641d3263d"
+    "id": "b99c12c6-cf54-4d6b-b161-1b353cded940"
    },
    "parentDataStepId": ""
   },
@@ -30204,7 +30206,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9dc59d36-d961-42fe-b898-1ab4783792f6"
+    "id": "f71a6f33-82b9-4a3e-90ca-db45f60e3900"
    },
    "parentDataStepId": ""
   },
@@ -30959,7 +30961,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ddfe34ce-1f16-4e64-a45d-b3385bef88f1"
+    "id": "84596a35-e44f-49ca-b599-68053c83d751"
    },
    "parentDataStepId": ""
   },
@@ -31234,7 +31236,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bd92c665-b983-4789-8e89-384b82249b83"
+    "id": "4172b119-30b8-4c33-b3bd-8693fb35e55d"
    },
    "parentDataStepId": ""
   },
@@ -31519,7 +31521,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "7576a202-3290-4e89-8127-9f0b6529b130"
+    "id": "b7e25477-1c78-4625-b318-320b39167f32"
    },
    "parentDataStepId": ""
   },
@@ -31784,7 +31786,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ba638526-3451-4bb0-b96c-6daa10dd3592"
+    "id": "c2575755-20ad-4aa0-8bef-69701879ec5c"
    },
    "parentDataStepId": ""
   },
@@ -32037,7 +32039,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "663265e7-8349-41b8-a3ba-f405e3dc2ea5"
+    "id": "e115b06a-b6fb-482b-b69d-9ffab8a7b70d"
    },
    "parentDataStepId": ""
   },
@@ -32345,7 +32347,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "33630951-2edc-49c5-bc83-ca4a23cad89e"
+    "id": "1160cec6-c428-42f9-bee2-ff00c6929c9a"
    },
    "parentDataStepId": ""
   },
@@ -32617,7 +32619,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "283bad35-9ca9-4885-9b2f-961db5c6aac2"
+    "id": "9296a9a5-1be7-4fae-9a97-f68616f386a3"
    },
    "parentDataStepId": ""
   },
@@ -32929,7 +32931,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "09a79a5b-5518-42b3-b70b-c553707a76d8"
+    "id": "febb1dda-825d-4db8-b2d6-881b57dde308"
    },
    "parentDataStepId": ""
   },
@@ -33239,7 +33241,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "dfd864e4-3435-49a6-b6fc-5a3921f7980f"
+    "id": "627b63a2-adb5-4b7c-80d9-223e31fdcfda"
    },
    "parentDataStepId": ""
   },
@@ -33511,7 +33513,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "52e2981f-af9f-42c7-9a0a-56f50a749337"
+    "id": "240de776-666b-491f-9e05-83a6f90d2345"
    },
    "parentDataStepId": ""
   },
@@ -33971,7 +33973,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5b56bfe4-393b-4489-8929-a589daf770ed"
+    "id": "ca62e831-7c04-4c5e-9502-6005d36af332"
    },
    "parentDataStepId": ""
   },
@@ -34255,7 +34257,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "3835d0f8-f771-41ee-bc6e-a8084a569dc3"
+    "id": "1efce138-f310-4c73-8a96-666e571359b6"
    },
    "parentDataStepId": ""
   },
@@ -34693,7 +34695,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "52dde36b-8b18-4719-8af3-64f7c4ebe70c"
+    "id": "67195950-d9ef-4bf9-b0de-f8d19bf0b865"
    },
    "parentDataStepId": ""
   },
@@ -35448,7 +35450,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "6c2eb19b-8277-4ac4-a37e-d44e11baf682"
+    "id": "52766f17-e406-43c2-9dbf-567bd1fc7dd1"
    },
    "parentDataStepId": ""
   },
@@ -35723,7 +35725,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0122a50e-0b82-4257-8008-54192af8945b"
+    "id": "7ba09968-85ae-4fd9-bbc2-2eac0b499af0"
    },
    "parentDataStepId": ""
   },
@@ -36008,7 +36010,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "78cfeec8-9d8e-483e-8919-9a5261e2f75c"
+    "id": "7dc8780f-34f3-49c6-9e60-0ea6261929f3"
    },
    "parentDataStepId": ""
   },
@@ -36273,7 +36275,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a24d0397-1970-4234-9ec8-50cc81a8f4b8"
+    "id": "65edff45-b449-4472-ab72-c962866a3753"
    },
    "parentDataStepId": ""
   },
@@ -36526,7 +36528,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a5fb42f3-7b2b-4c16-adfd-963377851e9e"
+    "id": "a33689e8-50eb-4240-a294-b399fcdc98a7"
    },
    "parentDataStepId": ""
   },
@@ -36834,7 +36836,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "22e8d953-becb-42d7-bbe5-6979ed4fb858"
+    "id": "dd727e32-6276-41f3-b06a-b8b9953af600"
    },
    "parentDataStepId": ""
   },
@@ -37106,7 +37108,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "569b2760-ac25-4a75-80cb-d495282048f4"
+    "id": "8c44079e-0c69-41ae-a7bb-91c33ebdbef2"
    },
    "parentDataStepId": ""
   },
@@ -37418,7 +37420,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "89e84725-241b-4e43-812d-de86eb4c2cb0"
+    "id": "23c2e420-3e85-444d-9ddf-09a3558685c4"
    },
    "parentDataStepId": ""
   },
@@ -37728,7 +37730,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "85d97df4-bee9-4d9b-b728-c114897e1fcb"
+    "id": "b7d96c87-34c3-402e-a36f-d6188e80b471"
    },
    "parentDataStepId": ""
   },
@@ -38000,7 +38002,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c4a9aa3d-5817-405a-8925-b3e307a3853a"
+    "id": "944d15a3-3f34-49cd-a945-effa52219e9e"
    },
    "parentDataStepId": ""
   },
@@ -38460,7 +38462,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "74cb3876-710a-4acc-863a-23f99779befe"
+    "id": "fafe25d7-87c3-48c5-9a06-cd1fdf10a4b5"
    },
    "parentDataStepId": ""
   },
@@ -38744,7 +38746,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b1824b5f-e778-42d2-9710-6382200f977c"
+    "id": "92bc3fe3-9b79-4e9b-85be-f97adda3140f"
    },
    "parentDataStepId": ""
   },
@@ -39182,7 +39184,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "f85d7425-b643-43c4-902a-b0e90585b1af"
+    "id": "7e0b1edb-9da9-458b-9474-5d1af8c877ed"
    },
    "parentDataStepId": ""
   },
@@ -39937,7 +39939,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a7c784a6-c561-4644-9def-066c298b85bc"
+    "id": "5c4787f4-5488-413a-97bc-40a5f41833e5"
    },
    "parentDataStepId": ""
   },
@@ -40212,7 +40214,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "c7ee4486-fd42-4143-805a-f8c56d2283b0"
+    "id": "86069b8b-09a1-4d7c-a90a-6dc34908f39b"
    },
    "parentDataStepId": ""
   },
@@ -40497,7 +40499,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a37a89e8-67dd-4cb7-83ea-8c5ea42200bb"
+    "id": "ae7d099e-dbfb-43dc-b241-a4bb28642f73"
    },
    "parentDataStepId": ""
   },
@@ -40762,7 +40764,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "212b5a2b-32f3-4d08-acea-bf55638d9eec"
+    "id": "2036b833-1848-4915-815d-2ce6b8ba71af"
    },
    "parentDataStepId": ""
   },
@@ -41015,7 +41017,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "257b90ae-e6d8-4a8a-a234-0275ff357700"
+    "id": "9e1161b5-7346-42f7-b855-03be5be980e4"
    },
    "parentDataStepId": ""
   },
@@ -41323,7 +41325,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "e7f4e606-cfb2-40d1-b89d-726bdbdf1257"
+    "id": "95776292-899c-4a4d-bd05-9b016e64df7b"
    },
    "parentDataStepId": ""
   },
@@ -41595,7 +41597,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "14fa98f4-4df3-472e-8715-9119ab3db5e2"
+    "id": "82eb8ab4-8c3f-437d-ae1a-7c9e1ce7916d"
    },
    "parentDataStepId": ""
   },
@@ -41907,7 +41909,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "b26228a2-2b1b-4ad5-addd-ddc1e4cbcee6"
+    "id": "85765bb1-1a64-44d1-9736-6f4b137c2393"
    },
    "parentDataStepId": ""
   },
@@ -42217,7 +42219,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "938ac16e-83a6-4ac9-8dee-9dc157d6a023"
+    "id": "e46f2e2a-c276-48d8-be5c-39eda44b35e7"
    },
    "parentDataStepId": ""
   },
@@ -42489,7 +42491,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0d7bfb64-aa72-4412-838f-7dd779bdd179"
+    "id": "6b15e0bf-b62e-4703-86ee-079f338f0005"
    },
    "parentDataStepId": ""
   },
@@ -42949,7 +42951,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "530225f9-2bb1-49d0-9ebb-59c627c38f85"
+    "id": "a8980314-ff44-4a8e-a1fd-4f0a90b3bb4c"
    },
    "parentDataStepId": ""
   },
@@ -43233,7 +43235,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "5e33a0ec-7edf-48d6-bf89-2ea5c6a11b90"
+    "id": "8fc90a81-5c50-44e3-84ef-a1c0b3b8cd7a"
    },
    "parentDataStepId": ""
   },
@@ -43671,7 +43673,7 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "dfd17741-0a65-46bd-bb4b-1f010c6ea4ba"
+    "id": "58ea2bb6-c072-4dd3-bc8d-2dbbd84d2084"
    },
    "parentDataStepId": ""
   },
@@ -44153,13 +44155,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "0903f182-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "753cd701-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "UKA analysis",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f180-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "74a44081-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -44167,7 +44169,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f181-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "753cd700-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -44181,7 +44183,7 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 621.4025781250002,
+     "x": 620.4025781250002,
      "y": 301.5
     }
    },
@@ -44287,7 +44289,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "C5.identity",
+          "name": "C.identity",
           "type": "double"
          },
          "rectangle": {
@@ -44396,7 +44398,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "T5.identity",
+          "name": "T.identity",
           "type": "double"
          },
          "rectangle": {
@@ -44456,12 +44458,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds128",
+     "namespace": "ds11",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "UKA operator",
-      "version": "0.1.1",
-      "operatorId": "18",
+      "version": "0.2.4",
+      "operatorId": "21",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -44508,6 +44510,11 @@
         "kind": "PropertyValue",
         "name": "PNETWeight",
         "value": "1"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "rmDualSpecKinases",
+        "value": "true"
        }
       ],
       "url": {
@@ -44587,19 +44594,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eab185bc-ebb0-44fa-8d0c-6b20d34bef33"
+    "id": "59a2bbee-53bb-486d-b145-8b5b8e7133f1"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "0903f185-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "753cd704-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Control",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f183-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "753cd702-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -44607,7 +44614,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f184-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "753cd703-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -44822,7 +44829,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "C5",
+     "namespace": "C",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -44907,19 +44914,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bd495872-1f35-446b-8861-69dd3cf61aa8"
+    "id": "4dbd6f27-1c81-4e62-b516-5d3fde508532"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "0903f188-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "753cd707-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Test",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f186-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "753cd705-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -44927,7 +44934,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f187-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "753cd706-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -45142,7 +45149,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "T5",
+     "namespace": "T",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -45227,19 +45234,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d0e7c1fb-9d4d-4a06-8e89-173a54a5c796"
+    "id": "f7510b51-c362-46c1-b54d-014a8086eacb"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "MeltStep",
-   "id": "0903f18b-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "75d56d82-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Gather",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f189-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d80-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -45247,7 +45254,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f18a-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d81-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -45278,51 +45285,51 @@
     "factors": [
      {
       "kind": "Factor",
-      "name": "ds128.Mean peptide set size",
+      "name": "ds11.Mean peptide set size",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Median Kinase Change",
+      "name": "ds11.Median Kinase Change",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.SD Kinase Statitistic",
+      "name": "ds11.SD Kinase Statitistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Mean Kinase Statistic",
+      "name": "ds11.Mean Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Median Kinase Statistic",
+      "name": "ds11.Median Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Max Final score",
+      "name": "ds11.Max Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Median Final score",
+      "name": "ds11.Median Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Mean Specificity Score",
+      "name": "ds11.Mean Specificity Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds128.Mean Significance Score",
+      "name": "ds11.Mean Significance Score",
       "type": "double"
      }
     ],
-    "namespace": "gs011",
+    "namespace": "gs0",
     "selectionPattern": "",
     "factorType": "double",
     "gatherType": ""
@@ -45331,13 +45338,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "0903f18e-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "75d56d85-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Volcano simple",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f18c-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d83-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -45345,7 +45352,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f18d-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d84-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -45394,7 +45401,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds128.Median Final score",
+          "name": "ds11.Median Final score",
           "type": "double"
          }
         ],
@@ -45445,7 +45452,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds128.Median Kinase Statistic",
+          "name": "ds11.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -45478,7 +45485,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds128.Median Final score",
+          "name": "ds11.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -45538,7 +45545,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano4",
+     "namespace": "volcano",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "",
@@ -45623,19 +45630,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a5e1739c-74ca-4da2-b485-8fe4119194ce"
+    "id": "e5a96352-f002-4068-9379-c5d31a1ccfb6"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "0903f191-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "75d56d88-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Export",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f18f-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d86-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -45643,7 +45650,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f190-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d87-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -45757,7 +45764,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "gs011.value",
+          "name": "gs0.value",
           "type": "double"
          },
          "rectangle": {
@@ -45789,7 +45796,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "gs011.variable",
+        "name": "gs0.variable",
         "type": "string"
        },
        "rectangle": {
@@ -45817,12 +45824,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds013",
+     "namespace": "ds01",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Export Table",
       "version": "0.2.6",
-      "operatorId": "19",
+      "operatorId": "16",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -45929,7 +45936,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds128.Kinase Name",
+        "name": "ds11.Kinase Name",
         "type": "string"
        },
        "rectangle": {
@@ -45950,7 +45957,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds128.Kinase Uniprot ID",
+        "name": "ds11.Kinase Uniprot ID",
         "type": "string"
        },
        "rectangle": {
@@ -45971,7 +45978,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds128.Kinase Group",
+        "name": "ds11.Kinase Group",
         "type": "string"
        },
        "rectangle": {
@@ -45992,7 +45999,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds128.Kinase Family",
+        "name": "ds11.Kinase Family",
         "type": "string"
        },
        "rectangle": {
@@ -46017,19 +46024,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9d0a89c3-e2e0-4eeb-a5f8-fe7a44d92133"
+    "id": "651df91e-4f67-4d50-88d1-18eab5be16e0"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "ViewStep",
-   "id": "0903f193-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "75d56d8a-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "View",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f192-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "75d56d89-1a7f-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "in"
     }
@@ -46059,13 +46066,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "0903f196-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "766e0402-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Volcano Shiny",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f194-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0400-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -46073,7 +46080,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f195-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0401-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -46122,7 +46129,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds128.Median Final score",
+          "name": "ds11.Median Final score",
           "type": "double"
          }
         ],
@@ -46159,7 +46166,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds128.Kinase Name",
+          "name": "ds11.Kinase Name",
           "type": "string"
          }
         ]
@@ -46179,7 +46186,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds128.Median Kinase Statistic",
+          "name": "ds11.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -46212,7 +46219,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds128.Median Final score",
+          "name": "ds11.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -46272,12 +46279,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano03",
+     "namespace": "volcano0",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.6",
-      "operatorId": "20",
+      "operatorId": "17",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -46357,19 +46364,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "98f926e6-485c-4e0c-bde4-02d403cb5f59"
+    "id": "909922ad-893a-4e5f-af69-ef45e61debe9"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "WizardStep",
-   "id": "0903f199-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "766e0405-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Wizard",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f197-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0403-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -46377,7 +46384,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f198-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0404-1a7f-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -46391,8 +46398,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 622.505,
-     "y": 12.5
+     "x": 627.505,
+     "y": 32.5
     }
    },
    "state": {
@@ -46417,7 +46424,13 @@
       "ontologyMapping": "",
       "crosstabMapping": "",
       "cardinality": "",
-      "factors": [],
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "FitApply.CmbCor",
+        "type": "double"
+       }
+      ],
       "factorName": "Quantitation Type",
       "isSingle": true,
       "isRequired": true
@@ -46430,7 +46443,13 @@
       "ontologyMapping": "",
       "crosstabMapping": "",
       "cardinality": "",
-      "factors": [],
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "FitApply..ID",
+        "type": "string"
+       }
+      ],
       "factorName": "Peptide",
       "isSingle": false,
       "isRequired": true
@@ -46443,7 +46462,13 @@
       "ontologyMapping": "",
       "crosstabMapping": "",
       "cardinality": "",
-      "factors": [],
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "FitApply..Test Condition",
+        "type": "string"
+       }
+      ],
       "factorName": "Test Condition",
       "isSingle": false,
       "isRequired": true
@@ -46456,7 +46481,18 @@
       "ontologyMapping": "",
       "crosstabMapping": "",
       "cardinality": "",
-      "factors": [],
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "FitApply..Barcode",
+        "type": "string"
+       },
+       {
+        "kind": "Factor",
+        "name": "FitApply..Row",
+        "type": "double"
+       }
+      ],
       "factorName": "Single Data Value per Cell",
       "isSingle": false,
       "isRequired": true
@@ -46466,7 +46502,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -46478,7 +46514,7 @@
          "stringValue": "Control",
          "factor": {
           "kind": "Factor",
-          "name": "Group",
+          "name": "FitApply..Test Condition",
           "type": "string"
          }
         }
@@ -46491,7 +46527,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -46503,7 +46539,7 @@
          "stringValue": "Control",
          "factor": {
           "kind": "Factor",
-          "name": "Group",
+          "name": "FitApply..Test Condition",
           "type": "string"
          }
         }
@@ -46527,7 +46563,7 @@
       "factors": [
        {
         "kind": "Factor",
-        "name": "Measurement",
+        "name": "FitApply.CmbCor",
         "type": "double"
        }
       ],
@@ -46546,7 +46582,7 @@
       "factors": [
        {
         "kind": "Factor",
-        "name": "Variable",
+        "name": "FitApply..ID",
         "type": "string"
        }
       ],
@@ -46565,7 +46601,7 @@
       "factors": [
        {
         "kind": "Factor",
-        "name": "Group",
+        "name": "FitApply..Test Condition",
         "type": "string"
        }
       ],
@@ -46584,8 +46620,13 @@
       "factors": [
        {
         "kind": "Factor",
-        "name": "Observation",
+        "name": "FitApply..Barcode",
         "type": "string"
+       },
+       {
+        "kind": "Factor",
+        "name": "FitApply..Row",
+        "type": "double"
        }
       ],
       "factorName": "Single Data Value per Cell",
@@ -46597,7 +46638,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -46609,7 +46650,7 @@
          "stringValue": "Control",
          "factor": {
           "kind": "Factor",
-          "name": "Group",
+          "name": "FitApply..Test Condition",
           "type": "string"
          }
         }
@@ -46622,7 +46663,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -46634,7 +46675,7 @@
          "stringValue": "Control",
          "factor": {
           "kind": "Factor",
-          "name": "Group",
+          "name": "FitApply..Test Condition",
           "type": "string"
          }
         }
@@ -46649,13 +46690,13 @@
   },
   {
    "kind": "InStep",
-   "id": "0903f19c-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "766e0408-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Input",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f19a-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0406-1a7f-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -46663,7 +46704,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f19b-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0407-1a7f-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -46678,7 +46719,7 @@
     "topLeft": {
      "kind": "Point",
      "x": 630.505,
-     "y": -81.5
+     "y": -73.5
     }
    },
    "state": {
@@ -46691,19 +46732,19 @@
    "description": "Input of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 849.8696899414062,
-    "y": 810.5
+    "x": 851.8696899414062,
+    "y": 816.5
    }
   },
   {
    "kind": "OutStep",
-   "id": "0903f19f-bafa-1021-b9b8-f9ceebae1db7",
-   "groupId": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "766e040b-1a7f-1302-847d-73580e8182cd",
+   "groupId": "74a44080-1a7f-1302-847d-73580e8182cd",
    "name": "Output",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "0903f19d-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e0409-1a7f-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -46711,7 +46752,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "0903f19e-bafa-1021-b9b8-f9ceebae1db7",
+     "id": "766e040a-1a7f-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -46725,8 +46766,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 758.140541687012,
-     "y": 382.5
+     "x": 750.1405416870119,
+     "y": 341.5
     }
    },
    "state": {
@@ -46739,13 +46780,13 @@
    "description": "Output of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 849.8696899414062,
-    "y": 873.5
+    "x": 851.8696899414062,
+    "y": 879.5
    }
   },
   {
    "kind": "GroupStep",
-   "id": "086b5b00-bafa-1021-b9b8-f9ceebae1db7",
+   "id": "74a44080-1a7f-1302-847d-73580e8182cd",
    "groupId": "",
    "name": "UKA_T123 vs C",
    "inputs": [],
@@ -46759,8 +46800,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 800.875732421875,
-     "y": 818.5
+     "x": 802.875732421875,
+     "y": 824.5
     }
    },
    "state": {
@@ -46771,24 +46812,24 @@
     }
    },
    "description": "",
-   "appId": "5f23b631d60a7c4d84f615f53e7ed721",
+   "appId": "2114f75c340d11e2770a93b410f6967d",
    "appName": "UKA_MTvC_app",
-   "version": "0.0.17",
+   "version": "0.1.0",
    "offset": {
     "kind": "Point",
-    "x": 9.0,
-    "y": 158.0
+    "x": 66.0,
+    "y": 77.0
    }
   },
   {
    "kind": "DataStep",
-   "id": "6022ba03-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "9f82a902-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "UKA analysis",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "6022ba01-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a900-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -46796,7 +46837,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "6022ba02-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a901-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -46810,7 +46851,7 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 621.4025781250002,
+     "x": 620.4025781250002,
      "y": 301.5
     }
    },
@@ -46916,7 +46957,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "C6.identity",
+          "name": "C0.identity",
           "type": "double"
          },
          "rectangle": {
@@ -47025,7 +47066,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "T6.identity",
+          "name": "T0.identity",
           "type": "double"
          },
          "rectangle": {
@@ -47085,12 +47126,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds129",
+     "namespace": "ds12",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "UKA operator",
-      "version": "0.1.1",
-      "operatorId": "18",
+      "version": "0.2.4",
+      "operatorId": "21",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -47137,6 +47178,11 @@
         "kind": "PropertyValue",
         "name": "PNETWeight",
         "value": "1"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "rmDualSpecKinases",
+        "value": "true"
        }
       ],
       "url": {
@@ -47216,19 +47262,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eab185bc-ebb0-44fa-8d0c-6b20d34bef33"
+    "id": "b12e3c36-3e11-4b18-b5f8-2c3444cc880e"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "60bb5082-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "9f82a905-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Control",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5080-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a903-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -47236,7 +47282,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb5081-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a904-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -47451,7 +47497,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "C6",
+     "namespace": "C0",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -47536,19 +47582,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bd495872-1f35-446b-8861-69dd3cf61aa8"
+    "id": "c1b670fe-f8bb-433e-a318-0cd1534b5246"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "60bb5085-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "9f82a908-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Test",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5083-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a906-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -47556,7 +47602,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb5084-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a907-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -47771,7 +47817,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "T6",
+     "namespace": "T0",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -47856,19 +47902,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d0e7c1fb-9d4d-4a06-8e89-173a54a5c796"
+    "id": "699b558e-7d3d-4d3e-a482-6da241c9c73c"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "MeltStep",
-   "id": "60bb5088-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "9f82a90b-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Gather",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5086-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a909-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -47876,7 +47922,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb5087-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "9f82a90a-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -47907,51 +47953,51 @@
     "factors": [
      {
       "kind": "Factor",
-      "name": "ds129.Mean peptide set size",
+      "name": "ds12.Mean peptide set size",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Median Kinase Change",
+      "name": "ds12.Median Kinase Change",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.SD Kinase Statitistic",
+      "name": "ds12.SD Kinase Statitistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Mean Kinase Statistic",
+      "name": "ds12.Mean Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Median Kinase Statistic",
+      "name": "ds12.Median Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Max Final score",
+      "name": "ds12.Max Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Median Final score",
+      "name": "ds12.Median Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Mean Specificity Score",
+      "name": "ds12.Mean Specificity Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds129.Mean Significance Score",
+      "name": "ds12.Mean Significance Score",
       "type": "double"
      }
     ],
-    "namespace": "gs012",
+    "namespace": "gs00",
     "selectionPattern": "",
     "factorType": "double",
     "gatherType": ""
@@ -47960,13 +48006,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "60bb508b-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a0b3d602-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Volcano simple",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5089-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d600-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -47974,7 +48020,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb508a-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d601-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -48023,7 +48069,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds129.Median Final score",
+          "name": "ds12.Median Final score",
           "type": "double"
          }
         ],
@@ -48074,7 +48120,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds129.Median Kinase Statistic",
+          "name": "ds12.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -48107,7 +48153,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds129.Median Final score",
+          "name": "ds12.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -48167,7 +48213,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano5",
+     "namespace": "volcano1",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "",
@@ -48252,19 +48298,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a5e1739c-74ca-4da2-b485-8fe4119194ce"
+    "id": "3704a1ce-60f3-4d24-9740-80c1fb29c718"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "60bb508e-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a0b3d605-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Export",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb508c-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d603-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -48272,7 +48318,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb508d-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d604-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -48386,7 +48432,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "gs012.value",
+          "name": "gs00.value",
           "type": "double"
          },
          "rectangle": {
@@ -48418,7 +48464,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "gs012.variable",
+        "name": "gs00.variable",
         "type": "string"
        },
        "rectangle": {
@@ -48446,12 +48492,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds014",
+     "namespace": "ds02",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Export Table",
       "version": "0.2.6",
-      "operatorId": "19",
+      "operatorId": "16",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -48558,7 +48604,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds129.Kinase Name",
+        "name": "ds12.Kinase Name",
         "type": "string"
        },
        "rectangle": {
@@ -48579,7 +48625,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds129.Kinase Uniprot ID",
+        "name": "ds12.Kinase Uniprot ID",
         "type": "string"
        },
        "rectangle": {
@@ -48600,7 +48646,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds129.Kinase Group",
+        "name": "ds12.Kinase Group",
         "type": "string"
        },
        "rectangle": {
@@ -48621,7 +48667,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds129.Kinase Family",
+        "name": "ds12.Kinase Family",
         "type": "string"
        },
        "rectangle": {
@@ -48646,19 +48692,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9d0a89c3-e2e0-4eeb-a5f8-fe7a44d92133"
+    "id": "ac847da7-853d-498d-aae5-47dfc793f2b1"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "ViewStep",
-   "id": "60bb5090-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a0b3d607-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "View",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb508f-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d606-1b00-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "in"
     }
@@ -48688,13 +48734,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "60bb5093-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a0b3d60a-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Volcano Shiny",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5091-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d608-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -48702,7 +48748,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb5092-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a0b3d609-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -48751,7 +48797,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds129.Median Final score",
+          "name": "ds12.Median Final score",
           "type": "double"
          }
         ],
@@ -48788,7 +48834,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds129.Kinase Name",
+          "name": "ds12.Kinase Name",
           "type": "string"
          }
         ]
@@ -48808,7 +48854,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds129.Median Kinase Statistic",
+          "name": "ds12.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -48841,7 +48887,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds129.Median Final score",
+          "name": "ds12.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -48901,12 +48947,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano04",
+     "namespace": "volcano00",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.6",
-      "operatorId": "20",
+      "operatorId": "17",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -48986,19 +49032,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "98f926e6-485c-4e0c-bde4-02d403cb5f59"
+    "id": "0c0860df-8562-4685-8748-ae19e85ea5e8"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "WizardStep",
-   "id": "60bb5096-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a1e50302-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Wizard",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5094-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a1e50300-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -49006,7 +49052,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb5095-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a1e50301-1b00-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -49020,8 +49066,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 622.505,
-     "y": 12.5
+     "x": 627.505,
+     "y": 32.5
     }
    },
    "state": {
@@ -49095,7 +49141,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -49120,7 +49166,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -49226,7 +49272,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -49251,7 +49297,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -49278,13 +49324,13 @@
   },
   {
    "kind": "InStep",
-   "id": "60bb5099-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a1e50305-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Input",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "60bb5097-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a1e50303-1b00-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -49292,7 +49338,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "60bb5098-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a1e50304-1b00-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -49307,7 +49353,7 @@
     "topLeft": {
      "kind": "Point",
      "x": 630.505,
-     "y": -81.5
+     "y": -73.5
     }
    },
    "state": {
@@ -49320,19 +49366,19 @@
    "description": "Input of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 986.108614807129,
-    "y": 812.5
+    "x": 981.108614807129,
+    "y": 822.5
    }
   },
   {
    "kind": "OutStep",
-   "id": "6153e702-bb2c-1021-b9b8-f9ceebae1db7",
-   "groupId": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "a1e50308-1b00-1302-847d-73580e8182cd",
+   "groupId": "9eea1280-1b00-1302-847d-73580e8182cd",
    "name": "Output",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "6153e700-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a1e50306-1b00-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -49340,7 +49386,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "6153e701-bb2c-1021-b9b8-f9ceebae1db7",
+     "id": "a1e50307-1b00-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -49354,8 +49400,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 758.140541687012,
-     "y": 382.5
+     "x": 750.1405416870119,
+     "y": 341.5
     }
    },
    "state": {
@@ -49368,13 +49414,13 @@
    "description": "Output of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 986.108614807129,
-    "y": 875.5
+    "x": 981.108614807129,
+    "y": 885.5
    }
   },
   {
    "kind": "GroupStep",
-   "id": "6022ba00-bb2c-1021-b9b8-f9ceebae1db7",
+   "id": "9eea1280-1b00-1302-847d-73580e8182cd",
    "groupId": "",
    "name": "UKA_T23 vs T1",
    "inputs": [],
@@ -49388,8 +49434,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 937.3596524047853,
-     "y": 820.5
+     "x": 932.3596524047853,
+     "y": 830.5
     }
    },
    "state": {
@@ -49400,24 +49446,24 @@
     }
    },
    "description": "",
-   "appId": "5f23b631d60a7c4d84f615f53e7ed721",
+   "appId": "2114f75c340d11e2770a93b410f6967d",
    "appName": "UKA_MTvC_app",
-   "version": "0.0.17",
+   "version": "0.1.0",
    "offset": {
     "kind": "Point",
-    "x": 9.0,
-    "y": 158.0
+    "x": 66.0,
+    "y": 77.0
    }
   },
   {
    "kind": "DataStep",
-   "id": "a85ccf03-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f760f483-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Control",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a85ccf01-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f760f481-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -49425,7 +49471,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a85ccf02-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f760f482-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -49640,7 +49686,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "C7",
+     "namespace": "C1",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -49725,19 +49771,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ee1af888-7da5-49f3-9db7-df9516b831e8"
+    "id": "5b285845-744f-4f86-bc9b-177dd2ae2492"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "a8f56582-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b02-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Test",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56580-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b00-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -49745,7 +49791,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f56581-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b01-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -49960,7 +50006,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "T7",
+     "namespace": "T1",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -50045,19 +50091,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "4ab772b6-49df-43d0-b97c-0f3a5e10f5c5"
+    "id": "ef08927a-8277-422c-b528-422c314cf918"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "a8f56585-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b05-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "UKA",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56583-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b03-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -50065,7 +50111,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f56584-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b04-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -50185,7 +50231,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "C7.identity",
+          "name": "C1.identity",
           "type": "double"
          },
          "rectangle": {
@@ -50294,7 +50340,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "T7.identity",
+          "name": "T1.identity",
           "type": "double"
          },
          "rectangle": {
@@ -50354,12 +50400,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds23",
+     "namespace": "ds21",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "UKA operator",
-      "version": "0.1.1",
-      "operatorId": "18",
+      "version": "0.2.4",
+      "operatorId": "21",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -50406,6 +50452,11 @@
         "kind": "PropertyValue",
         "name": "PNETWeight",
         "value": "1"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "rmDualSpecKinases",
+        "value": "true"
        }
       ],
       "url": {
@@ -50459,19 +50510,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "12ff241c-9438-4a45-9161-3fd1ad3024c2"
+    "id": "ee1195a0-5ea6-4533-927a-c99a7c30aa97"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "MeltStep",
-   "id": "a8f56588-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b08-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Gather",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56586-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b06-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -50479,7 +50530,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f56587-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b07-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -50510,51 +50561,51 @@
     "factors": [
      {
       "kind": "Factor",
-      "name": "ds23.Mean Significance Score",
+      "name": "ds21.Mean Significance Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Mean Specificity Score",
+      "name": "ds21.Mean Specificity Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Median Final score",
+      "name": "ds21.Median Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Max Final score",
+      "name": "ds21.Max Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Median Kinase Statistic",
+      "name": "ds21.Median Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Mean Kinase Statistic",
+      "name": "ds21.Mean Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.SD Kinase Statitistic",
+      "name": "ds21.SD Kinase Statitistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Median Kinase Change",
+      "name": "ds21.Median Kinase Change",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds23.Mean peptide set size",
+      "name": "ds21.Mean peptide set size",
       "type": "double"
      }
     ],
-    "namespace": "gs013",
+    "namespace": "gs01",
     "selectionPattern": "",
     "factorType": "double",
     "gatherType": ""
@@ -50563,13 +50614,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "a8f5658b-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b0b-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Export",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56589-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b09-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -50577,7 +50628,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f5658a-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b0a-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -50701,7 +50752,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "gs013.value",
+          "name": "gs01.value",
           "type": "double"
          },
          "rectangle": {
@@ -50733,7 +50784,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "gs013.variable",
+        "name": "gs01.variable",
         "type": "string"
        },
        "rectangle": {
@@ -50761,12 +50812,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds312",
+     "namespace": "ds30",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Export Table",
       "version": "0.2.6",
-      "operatorId": "19",
+      "operatorId": "16",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -50873,7 +50924,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds23.Kinase Name",
+        "name": "ds21.Kinase Name",
         "type": "string"
        },
        "rectangle": {
@@ -50894,7 +50945,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds23.Kinase Uniprot ID",
+        "name": "ds21.Kinase Uniprot ID",
         "type": "string"
        },
        "rectangle": {
@@ -50915,7 +50966,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds23.Kinase Group",
+        "name": "ds21.Kinase Group",
         "type": "string"
        },
        "rectangle": {
@@ -50936,7 +50987,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds23.Kinase Family",
+        "name": "ds21.Kinase Family",
         "type": "string"
        },
        "rectangle": {
@@ -50961,19 +51012,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "470e4c95-76ac-4951-85ae-f08688b9bf13"
+    "id": "7c99961a-b285-42f8-93ae-22eb5fc980bc"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "a8f5658e-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b0e-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Volcano simple",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f5658c-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b0c-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -50981,7 +51032,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f5658d-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b0d-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -51030,7 +51081,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds23.Median Final score",
+          "name": "ds21.Median Final score",
           "type": "double"
          }
         ],
@@ -51081,7 +51132,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds23.Median Kinase Statistic",
+          "name": "ds21.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -51114,7 +51165,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds23.Median Final score",
+          "name": "ds21.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -51174,7 +51225,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds015",
+     "namespace": "ds03",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "",
@@ -51259,19 +51310,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0ceb975e-cfca-430b-b7e7-dd8e4d09f823"
+    "id": "31a096ba-5b26-4b5d-a8fb-4213c63f97ad"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "ViewStep",
-   "id": "a8f56590-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b10-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "View",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f5658f-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b0f-1b80-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "in"
     }
@@ -51301,13 +51352,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "a8f56593-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b13-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Volcano shiny",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56591-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b11-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -51315,7 +51366,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f56592-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b12-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -51364,7 +51415,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds23.Median Final score",
+          "name": "ds21.Median Final score",
           "type": "double"
          }
         ],
@@ -51401,7 +51452,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds23.Kinase Name",
+          "name": "ds21.Kinase Name",
           "type": "string"
          }
         ]
@@ -51421,7 +51472,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds23.Median Kinase Statistic",
+          "name": "ds21.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -51454,7 +51505,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds23.Median Final score",
+          "name": "ds21.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -51514,12 +51565,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds002",
+     "namespace": "ds000",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.6",
-      "operatorId": "20",
+      "operatorId": "17",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -51599,19 +51650,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "33ab8534-3f9a-4808-ab1a-a6497c3511ff"
+    "id": "736c2087-874a-4569-a27a-369f9bb3e63b"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "WizardStep",
-   "id": "a8f56596-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b16-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Wizard",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56594-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b14-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -51619,7 +51670,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f56595-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b15-1b80-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -51633,8 +51684,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 271.505,
-     "y": 95.5
+     "x": 269.505,
+     "y": 86.5
     }
    },
    "state": {
@@ -51672,7 +51723,13 @@
       "ontologyMapping": "",
       "crosstabMapping": "",
       "cardinality": "",
-      "factors": [],
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "T3T2..ID",
+        "type": "string"
+       }
+      ],
       "factorName": "Peptide",
       "isSingle": false,
       "isRequired": true
@@ -51698,7 +51755,18 @@
       "ontologyMapping": "",
       "crosstabMapping": "",
       "cardinality": "",
-      "factors": [],
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "T3T2..Barcode",
+        "type": "string"
+       },
+       {
+        "kind": "Factor",
+        "name": "T3T2..Row",
+        "type": "double"
+       }
+      ],
       "factorName": "Single Data Value per Cell",
       "isSingle": false,
       "isRequired": true
@@ -51733,7 +51801,7 @@
          "stringValue": "Control",
          "factor": {
           "kind": "Factor",
-          "name": "Group",
+          "name": "T3T2..Test Condition",
           "type": "string"
          }
         }
@@ -51758,7 +51826,7 @@
          "stringValue": "Control",
          "factor": {
           "kind": "Factor",
-          "name": "Group",
+          "name": "T3T2..Test Condition",
           "type": "string"
          }
         }
@@ -51923,13 +51991,13 @@
   },
   {
    "kind": "InStep",
-   "id": "a8f56599-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b19-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Input",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f56597-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b17-1b80-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -51937,7 +52005,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f56598-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b18-1b80-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -51951,8 +52019,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 277.505,
-     "y": 4.5
+     "x": 266.505,
+     "y": -20.5
     }
    },
    "state": {
@@ -51965,19 +52033,19 @@
    "description": "Input of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 1106.3346356201173,
-    "y": 806.5
+    "x": 1109.3346356201173,
+    "y": 821.5
    }
   },
   {
    "kind": "OutStep",
-   "id": "a8f5659c-bb62-1021-b9b8-f9ceebae1db7",
-   "groupId": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f7f98b1c-1b80-1302-847d-73580e8182cd",
+   "groupId": "f760f480-1b80-1302-847d-73580e8182cd",
    "name": "Output",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "a8f5659a-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b1a-1b80-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -51985,7 +52053,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "a8f5659b-bb62-1021-b9b8-f9ceebae1db7",
+     "id": "f7f98b1b-1b80-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -51999,8 +52067,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 422.5050000000001,
-     "y": 383.5
+     "x": 475.5050000000001,
+     "y": 430.5
     }
    },
    "state": {
@@ -52013,13 +52081,13 @@
    "description": "Output of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 1106.3346356201173,
-    "y": 869.5
+    "x": 1109.3346356201173,
+    "y": 884.5
    }
   },
   {
    "kind": "GroupStep",
-   "id": "a85ccf00-bb62-1021-b9b8-f9ceebae1db7",
+   "id": "f760f480-1b80-1302-847d-73580e8182cd",
    "groupId": "",
    "name": "UKA_T3 vs T2",
    "inputs": [],
@@ -52033,8 +52101,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 1061.064669494629,
-     "y": 814.5
+     "x": 1064.064669494629,
+     "y": 829.5
     }
    },
    "state": {
@@ -52045,24 +52113,24 @@
     }
    },
    "description": "",
-   "appId": "5f23b631d60a7c4d84f615f53ef7f021",
+   "appId": "2114f75c340d11e2770a93b410f7f84e",
    "appName": "UKA_TGC_app",
-   "version": "0.0.23",
+   "version": "0.1.0",
    "offset": {
     "kind": "Point",
-    "x": 638.0,
-    "y": 13.0
+    "x": 627.0,
+    "y": 86.0
    }
   },
   {
    "kind": "DataStep",
-   "id": "95a7c182-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "34c39183-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "UKA analysis",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "95a7c180-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "34c39181-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -52070,7 +52138,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "95a7c181-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "34c39182-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -52084,7 +52152,7 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 621.4025781250002,
+     "x": 620.4025781250002,
      "y": 301.5
     }
    },
@@ -52190,7 +52258,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "C8.identity",
+          "name": "C2.identity",
           "type": "double"
          },
          "rectangle": {
@@ -52299,7 +52367,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "T8.identity",
+          "name": "T2.identity",
           "type": "double"
          },
          "rectangle": {
@@ -52359,12 +52427,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds135",
+     "namespace": "ds17",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "UKA operator",
-      "version": "0.1.1",
-      "operatorId": "18",
+      "version": "0.2.4",
+      "operatorId": "21",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -52411,6 +52479,11 @@
         "kind": "PropertyValue",
         "name": "PNETWeight",
         "value": "1"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "rmDualSpecKinases",
+        "value": "true"
        }
       ],
       "url": {
@@ -52490,19 +52563,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eab185bc-ebb0-44fa-8d0c-6b20d34bef33"
+    "id": "60a802dc-5673-4496-9d8c-1304442e85b0"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "95a7c185-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "355c2802-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Control",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "95a7c183-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2800-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -52510,7 +52583,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "95a7c184-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2801-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -52725,7 +52798,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "C8",
+     "namespace": "C2",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -52810,19 +52883,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bd495872-1f35-446b-8861-69dd3cf61aa8"
+    "id": "9036e017-66cc-49eb-bb47-2e01383f1176"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "96405802-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "355c2805-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Test",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "96405800-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2803-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -52830,7 +52903,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "96405801-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2804-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -53045,7 +53118,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "T8",
+     "namespace": "T2",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -53130,19 +53203,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d0e7c1fb-9d4d-4a06-8e89-173a54a5c796"
+    "id": "ea18dcc1-2ef9-4fe6-af13-35907377cccf"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "MeltStep",
-   "id": "96405805-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "355c2808-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Gather",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "96405803-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2806-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -53150,7 +53223,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "96405804-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2807-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -53181,51 +53254,51 @@
     "factors": [
      {
       "kind": "Factor",
-      "name": "ds135.Mean peptide set size",
+      "name": "ds17.Mean peptide set size",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Median Kinase Change",
+      "name": "ds17.Median Kinase Change",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.SD Kinase Statitistic",
+      "name": "ds17.SD Kinase Statitistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Mean Kinase Statistic",
+      "name": "ds17.Mean Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Median Kinase Statistic",
+      "name": "ds17.Median Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Max Final score",
+      "name": "ds17.Max Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Median Final score",
+      "name": "ds17.Median Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Mean Specificity Score",
+      "name": "ds17.Mean Specificity Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds135.Mean Significance Score",
+      "name": "ds17.Mean Significance Score",
       "type": "double"
      }
     ],
-    "namespace": "gs014",
+    "namespace": "gs02",
     "selectionPattern": "",
     "factorType": "double",
     "gatherType": ""
@@ -53234,13 +53307,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "96405808-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "355c280b-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Volcano simple",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "96405806-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c2809-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -53248,7 +53321,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "96405807-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "355c280a-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -53297,7 +53370,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds135.Median Final score",
+          "name": "ds17.Median Final score",
           "type": "double"
          }
         ],
@@ -53348,7 +53421,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds135.Median Kinase Statistic",
+          "name": "ds17.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -53381,7 +53454,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds135.Median Final score",
+          "name": "ds17.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -53441,7 +53514,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano6",
+     "namespace": "volcano2",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "",
@@ -53526,19 +53599,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a5e1739c-74ca-4da2-b485-8fe4119194ce"
+    "id": "fb1dbce2-2052-44de-87b8-843f61bef0d1"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "96d8ee82-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "35f4be82-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Export",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "96d8ee80-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "35f4be80-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -53546,7 +53619,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "96d8ee81-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "35f4be81-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -53660,7 +53733,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "gs014.value",
+          "name": "gs02.value",
           "type": "double"
          },
          "rectangle": {
@@ -53692,7 +53765,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "gs014.variable",
+        "name": "gs02.variable",
         "type": "string"
        },
        "rectangle": {
@@ -53720,12 +53793,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds016",
+     "namespace": "ds04",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Export Table",
       "version": "0.2.6",
-      "operatorId": "19",
+      "operatorId": "16",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -53832,7 +53905,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds135.Kinase Name",
+        "name": "ds17.Kinase Name",
         "type": "string"
        },
        "rectangle": {
@@ -53853,7 +53926,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds135.Kinase Uniprot ID",
+        "name": "ds17.Kinase Uniprot ID",
         "type": "string"
        },
        "rectangle": {
@@ -53874,7 +53947,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds135.Kinase Group",
+        "name": "ds17.Kinase Group",
         "type": "string"
        },
        "rectangle": {
@@ -53895,7 +53968,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds135.Kinase Family",
+        "name": "ds17.Kinase Family",
         "type": "string"
        },
        "rectangle": {
@@ -53920,19 +53993,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9d0a89c3-e2e0-4eeb-a5f8-fe7a44d92133"
+    "id": "97774376-0a20-44fe-8a33-c60d257eafe1"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "ViewStep",
-   "id": "96d8ee84-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "35f4be84-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "View",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "96d8ee83-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "35f4be83-1c16-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "in"
     }
@@ -53962,13 +54035,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "97718502-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "35f4be87-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Volcano Shiny",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "97718500-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "35f4be85-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -53976,7 +54049,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "97718501-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "35f4be86-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -54025,7 +54098,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds135.Median Final score",
+          "name": "ds17.Median Final score",
           "type": "double"
          }
         ],
@@ -54062,7 +54135,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds135.Kinase Name",
+          "name": "ds17.Kinase Name",
           "type": "string"
          }
         ]
@@ -54082,7 +54155,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds135.Median Kinase Statistic",
+          "name": "ds17.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -54115,7 +54188,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds135.Median Final score",
+          "name": "ds17.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -54175,12 +54248,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano05",
+     "namespace": "volcano01",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.6",
-      "operatorId": "20",
+      "operatorId": "17",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -54260,19 +54333,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "98f926e6-485c-4e0c-bde4-02d403cb5f59"
+    "id": "ad319c38-57c4-48c2-94d1-5630fe369b8d"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "WizardStep",
-   "id": "97718505-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "3725eb82-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Wizard",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "97718503-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "3725eb80-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -54280,7 +54353,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "97718504-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "3725eb81-1c16-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -54294,8 +54367,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 622.505,
-     "y": 12.5
+     "x": 627.505,
+     "y": 32.5
     }
    },
    "state": {
@@ -54308,7 +54381,7 @@
    "description": "Create a generic workflow.",
    "model": {
     "kind": "WizardStepModel",
-    "namespace": "UKA_MTvC1",
+    "namespace": "UKA_VSN_T123 vs C",
     "description": "",
     "appDesignType": "UKA_MTvC.c06_groups_control_pair",
     "factors": [
@@ -54369,7 +54442,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -54394,7 +54467,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -54500,7 +54573,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -54525,7 +54598,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -54552,13 +54625,13 @@
   },
   {
    "kind": "InStep",
-   "id": "980a1b82-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "3725eb85-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Input",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "980a1b80-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "3725eb83-1c16-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -54566,7 +54639,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "980a1b81-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "3725eb84-1c16-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -54581,7 +54654,7 @@
     "topLeft": {
      "kind": "Point",
      "x": 630.505,
-     "y": -81.5
+     "y": -73.5
     }
    },
    "state": {
@@ -54594,19 +54667,19 @@
    "description": "Input of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 2679.8696899414062,
-    "y": 852.5
+    "x": 2671.8696899414062,
+    "y": 861.5
    }
   },
   {
    "kind": "OutStep",
-   "id": "980a1b85-bb85-1021-b9b8-f9ceebae1db7",
-   "groupId": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "3725eb88-1c16-1302-847d-73580e8182cd",
+   "groupId": "34c39180-1c16-1302-847d-73580e8182cd",
    "name": "Output",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "980a1b83-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "3725eb86-1c16-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -54614,7 +54687,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "980a1b84-bb85-1021-b9b8-f9ceebae1db7",
+     "id": "3725eb87-1c16-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -54628,8 +54701,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 758.140541687012,
-     "y": 382.5
+     "x": 750.1405416870119,
+     "y": 341.5
     }
    },
    "state": {
@@ -54642,13 +54715,13 @@
    "description": "Output of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 2679.8696899414062,
-    "y": 915.5
+    "x": 2671.8696899414062,
+    "y": 924.5
    }
   },
   {
    "kind": "GroupStep",
-   "id": "950f2b00-bb85-1021-b9b8-f9ceebae1db7",
+   "id": "34c39180-1c16-1302-847d-73580e8182cd",
    "groupId": "",
    "name": "UKA_VSN_T123 vs C",
    "inputs": [],
@@ -54662,8 +54735,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 2615.5737380981445,
-     "y": 860.5
+     "x": 2607.5737380981445,
+     "y": 869.5
     }
    },
    "state": {
@@ -54674,24 +54747,24 @@
     }
    },
    "description": "",
-   "appId": "5f23b631d60a7c4d84f615f53e7ed721",
+   "appId": "2114f75c340d11e2770a93b410f6967d",
    "appName": "UKA_MTvC_app",
-   "version": "0.0.17",
+   "version": "0.1.0",
    "offset": {
     "kind": "Point",
-    "x": 9.0,
-    "y": 158.0
+    "x": 66.0,
+    "y": 77.0
    }
   },
   {
    "kind": "DataStep",
-   "id": "2fd42d83-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a3026583-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "UKA analysis",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d81-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a3026581-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -54699,7 +54772,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "2fd42d82-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a3026582-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -54713,7 +54786,7 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 621.4025781250002,
+     "x": 620.4025781250002,
      "y": 301.5
     }
    },
@@ -54819,7 +54892,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "C9.identity",
+          "name": "C3.identity",
           "type": "double"
          },
          "rectangle": {
@@ -54928,7 +55001,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "T9.identity",
+          "name": "T3.identity",
           "type": "double"
          },
          "rectangle": {
@@ -54988,12 +55061,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds136",
+     "namespace": "ds18",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "UKA operator",
-      "version": "0.1.1",
-      "operatorId": "18",
+      "version": "0.2.4",
+      "operatorId": "21",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -55040,6 +55113,11 @@
         "kind": "PropertyValue",
         "name": "PNETWeight",
         "value": "1"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "rmDualSpecKinases",
+        "value": "true"
        }
       ],
       "url": {
@@ -55119,19 +55197,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "eab185bc-ebb0-44fa-8d0c-6b20d34bef33"
+    "id": "37b73492-6663-4f1f-a5a1-483f2468a332"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "2fd42d86-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a3026586-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Control",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d84-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a3026584-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -55139,7 +55217,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "2fd42d85-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a3026585-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -55354,7 +55432,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "C9",
+     "namespace": "C3",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -55439,19 +55517,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "bd495872-1f35-446b-8861-69dd3cf61aa8"
+    "id": "5d3ebb27-1014-40f1-8918-36927d0afb5d"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "2fd42d89-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc02-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Test",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d87-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc00-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -55459,7 +55537,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "2fd42d88-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc01-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -55674,7 +55752,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "T9",
+     "namespace": "T3",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -55759,19 +55837,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "d0e7c1fb-9d4d-4a06-8e89-173a54a5c796"
+    "id": "0185048d-e467-464d-aeb8-bfd78976bdde"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "MeltStep",
-   "id": "2fd42d8c-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc05-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Gather",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d8a-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc03-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -55779,7 +55857,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "2fd42d8b-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc04-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -55810,51 +55888,51 @@
     "factors": [
      {
       "kind": "Factor",
-      "name": "ds136.Mean peptide set size",
+      "name": "ds18.Mean peptide set size",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Median Kinase Change",
+      "name": "ds18.Median Kinase Change",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.SD Kinase Statitistic",
+      "name": "ds18.SD Kinase Statitistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Mean Kinase Statistic",
+      "name": "ds18.Mean Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Median Kinase Statistic",
+      "name": "ds18.Median Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Max Final score",
+      "name": "ds18.Max Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Median Final score",
+      "name": "ds18.Median Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Mean Specificity Score",
+      "name": "ds18.Mean Specificity Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds136.Mean Significance Score",
+      "name": "ds18.Mean Significance Score",
       "type": "double"
      }
     ],
-    "namespace": "gs015",
+    "namespace": "gs03",
     "selectionPattern": "",
     "factorType": "double",
     "gatherType": ""
@@ -55863,13 +55941,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "2fd42d8f-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc08-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Volcano simple",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d8d-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc06-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -55877,7 +55955,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "2fd42d8e-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc07-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -55926,7 +56004,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds136.Median Final score",
+          "name": "ds18.Median Final score",
           "type": "double"
          }
         ],
@@ -55977,7 +56055,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds136.Median Kinase Statistic",
+          "name": "ds18.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -56010,7 +56088,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds136.Median Final score",
+          "name": "ds18.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -56070,7 +56148,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano7",
+     "namespace": "volcano3",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "",
@@ -56155,19 +56233,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "a5e1739c-74ca-4da2-b485-8fe4119194ce"
+    "id": "9192de3d-111f-49b2-b7c4-5cb4f8cd2bfa"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "2fd42d92-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc0b-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Export",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d90-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc09-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -56175,7 +56253,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "2fd42d91-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc0a-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -56289,7 +56367,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "gs015.value",
+          "name": "gs03.value",
           "type": "double"
          },
          "rectangle": {
@@ -56321,7 +56399,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "gs015.variable",
+        "name": "gs03.variable",
         "type": "string"
        },
        "rectangle": {
@@ -56349,12 +56427,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds017",
+     "namespace": "ds05",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Export Table",
       "version": "0.2.6",
-      "operatorId": "19",
+      "operatorId": "16",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -56461,7 +56539,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds136.Kinase Name",
+        "name": "ds18.Kinase Name",
         "type": "string"
        },
        "rectangle": {
@@ -56482,7 +56560,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds136.Kinase Uniprot ID",
+        "name": "ds18.Kinase Uniprot ID",
         "type": "string"
        },
        "rectangle": {
@@ -56503,7 +56581,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds136.Kinase Group",
+        "name": "ds18.Kinase Group",
         "type": "string"
        },
        "rectangle": {
@@ -56524,7 +56602,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds136.Kinase Family",
+        "name": "ds18.Kinase Family",
         "type": "string"
        },
        "rectangle": {
@@ -56549,19 +56627,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "9d0a89c3-e2e0-4eeb-a5f8-fe7a44d92133"
+    "id": "f2c9f454-5d26-412f-98cc-09374c44c03e"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "ViewStep",
-   "id": "2fd42d94-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc0d-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "View",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "2fd42d93-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc0c-1ca3-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "in"
     }
@@ -56591,13 +56669,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "306cc402-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc10-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Volcano Shiny",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "306cc400-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc0e-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -56605,7 +56683,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "306cc401-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc0f-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -56654,7 +56732,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds136.Median Final score",
+          "name": "ds18.Median Final score",
           "type": "double"
          }
         ],
@@ -56691,7 +56769,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds136.Kinase Name",
+          "name": "ds18.Kinase Name",
           "type": "string"
          }
         ]
@@ -56711,7 +56789,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds136.Median Kinase Statistic",
+          "name": "ds18.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -56744,7 +56822,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds136.Median Final score",
+          "name": "ds18.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -56804,12 +56882,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "volcano06",
+     "namespace": "volcano02",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.6",
-      "operatorId": "20",
+      "operatorId": "17",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -56889,19 +56967,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "98f926e6-485c-4e0c-bde4-02d403cb5f59"
+    "id": "21ee825e-ef9f-4853-ab8b-21f8fdcfa455"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "WizardStep",
-   "id": "306cc405-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc13-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Wizard",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "306cc403-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc11-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -56909,7 +56987,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "306cc404-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc12-1ca3-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -56923,8 +57001,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 622.505,
-     "y": 12.5
+     "x": 627.505,
+     "y": 32.5
     }
    },
    "state": {
@@ -56998,7 +57076,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -57023,7 +57101,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -57129,7 +57207,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Control",
-      "description": "",
+      "description": "Select the condition which defines the Control.\n\nExample: Test condition = Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -57154,7 +57232,7 @@
      {
       "kind": "MappingFilter",
       "name": "Select Test conditions",
-      "description": "",
+      "description": "Select the conditions which define the Test.\n\nExample: Test condition notequals Control",
       "namedFilter": {
        "kind": "NamedFilter",
        "logical": "and",
@@ -57181,13 +57259,13 @@
   },
   {
    "kind": "InStep",
-   "id": "306cc408-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc16-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Input",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "306cc406-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc14-1ca3-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -57195,7 +57273,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "306cc407-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc15-1ca3-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -57210,7 +57288,7 @@
     "topLeft": {
      "kind": "Point",
      "x": 630.505,
-     "y": -81.5
+     "y": -73.5
     }
    },
    "state": {
@@ -57223,19 +57301,19 @@
    "description": "Input of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 2832.7086209106446,
-    "y": 860.5
+    "x": 2835.7086209106446,
+    "y": 868.5
    }
   },
   {
    "kind": "OutStep",
-   "id": "306cc40b-bbb7-1021-b9b8-f9ceebae1db7",
-   "groupId": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a39afc19-1ca3-1302-847d-73580e8182cd",
+   "groupId": "a3026580-1ca3-1302-847d-73580e8182cd",
    "name": "Output",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "306cc409-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc17-1ca3-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -57243,7 +57321,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "306cc40a-bbb7-1021-b9b8-f9ceebae1db7",
+     "id": "a39afc18-1ca3-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -57257,8 +57335,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 758.140541687012,
-     "y": 382.5
+     "x": 750.1405416870119,
+     "y": 341.5
     }
    },
    "state": {
@@ -57271,13 +57349,13 @@
    "description": "Output of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 2832.7086209106446,
-    "y": 923.5
+    "x": 2835.7086209106446,
+    "y": 931.5
    }
   },
   {
    "kind": "GroupStep",
-   "id": "2fd42d80-bbb7-1021-b9b8-f9ceebae1db7",
+   "id": "a3026580-1ca3-1302-847d-73580e8182cd",
    "groupId": "",
    "name": "UKA_VSN_T23 vs T1",
    "inputs": [],
@@ -57291,8 +57369,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 2768.6576641845704,
-     "y": 868.5
+     "x": 2771.6576641845704,
+     "y": 876.5
     }
    },
    "state": {
@@ -57303,24 +57381,24 @@
     }
    },
    "description": "",
-   "appId": "5f23b631d60a7c4d84f615f53e7ed721",
+   "appId": "2114f75c340d11e2770a93b410f6967d",
    "appName": "UKA_MTvC_app",
-   "version": "0.0.17",
+   "version": "0.1.0",
    "offset": {
     "kind": "Point",
-    "x": 9.0,
-    "y": 158.0
+    "x": 66.0,
+    "y": 77.0
    }
   },
   {
    "kind": "DataStep",
-   "id": "fb219f82-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "03d08302-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Control",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f80-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "03d08300-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -57328,7 +57406,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f81-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "03d08301-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -57543,7 +57621,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "C10",
+     "namespace": "C4",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -57628,19 +57706,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "ee1af888-7da5-49f3-9db7-df9516b831e8"
+    "id": "74af89fd-5414-4a08-ab81-180084e6004a"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "fb219f85-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "04691982-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Test",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f83-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "04691980-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -57648,7 +57726,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f84-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "04691981-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -57863,7 +57941,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "T10",
+     "namespace": "T4",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Identity",
@@ -57948,19 +58026,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "4ab772b6-49df-43d0-b97c-0f3a5e10f5c5"
+    "id": "813850ef-c5cc-4906-a296-449883eac9df"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "fb219f88-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "0501b001-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "UKA",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f86-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "04691983-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -57968,7 +58046,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f87-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0501b000-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -58088,7 +58166,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "C10.identity",
+          "name": "C4.identity",
           "type": "double"
          },
          "rectangle": {
@@ -58197,7 +58275,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "T10.identity",
+          "name": "T4.identity",
           "type": "double"
          },
          "rectangle": {
@@ -58257,12 +58335,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds24",
+     "namespace": "ds22",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "UKA operator",
-      "version": "0.1.1",
-      "operatorId": "18",
+      "version": "0.2.4",
+      "operatorId": "21",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -58309,6 +58387,11 @@
         "kind": "PropertyValue",
         "name": "PNETWeight",
         "value": "1"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "rmDualSpecKinases",
+        "value": "true"
        }
       ],
       "url": {
@@ -58362,19 +58445,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "12ff241c-9438-4a45-9161-3fd1ad3024c2"
+    "id": "e5ec5f82-8fa3-4fff-b3fc-3724a0f4c08b"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "MeltStep",
-   "id": "fb219f8b-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "0501b004-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Gather",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f89-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0501b002-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -58382,7 +58465,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f8a-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0501b003-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -58413,51 +58496,51 @@
     "factors": [
      {
       "kind": "Factor",
-      "name": "ds24.Mean Significance Score",
+      "name": "ds22.Mean Significance Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Mean Specificity Score",
+      "name": "ds22.Mean Specificity Score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Median Final score",
+      "name": "ds22.Median Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Max Final score",
+      "name": "ds22.Max Final score",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Median Kinase Statistic",
+      "name": "ds22.Median Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Mean Kinase Statistic",
+      "name": "ds22.Mean Kinase Statistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.SD Kinase Statitistic",
+      "name": "ds22.SD Kinase Statitistic",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Median Kinase Change",
+      "name": "ds22.Median Kinase Change",
       "type": "double"
      },
      {
       "kind": "Factor",
-      "name": "ds24.Mean peptide set size",
+      "name": "ds22.Mean peptide set size",
       "type": "double"
      }
     ],
-    "namespace": "gs016",
+    "namespace": "gs04",
     "selectionPattern": "",
     "factorType": "double",
     "gatherType": ""
@@ -58466,13 +58549,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "fb219f8e-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "0501b007-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Export",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f8c-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0501b005-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -58480,7 +58563,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f8d-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0501b006-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -58604,7 +58687,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "gs016.value",
+          "name": "gs04.value",
           "type": "double"
          },
          "rectangle": {
@@ -58636,7 +58719,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "gs016.variable",
+        "name": "gs04.variable",
         "type": "string"
        },
        "rectangle": {
@@ -58664,12 +58747,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds313",
+     "namespace": "ds31",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Export Table",
       "version": "0.2.6",
-      "operatorId": "19",
+      "operatorId": "16",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -58776,7 +58859,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds24.Kinase Name",
+        "name": "ds22.Kinase Name",
         "type": "string"
        },
        "rectangle": {
@@ -58797,7 +58880,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds24.Kinase Uniprot ID",
+        "name": "ds22.Kinase Uniprot ID",
         "type": "string"
        },
        "rectangle": {
@@ -58818,7 +58901,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds24.Kinase Group",
+        "name": "ds22.Kinase Group",
         "type": "string"
        },
        "rectangle": {
@@ -58839,7 +58922,7 @@
        "kind": "GraphicalFactor",
        "factor": {
         "kind": "Factor",
-        "name": "ds24.Kinase Family",
+        "name": "ds22.Kinase Family",
         "type": "string"
        },
        "rectangle": {
@@ -58864,19 +58947,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "470e4c95-76ac-4951-85ae-f08688b9bf13"
+    "id": "1e1302bf-05cb-4a05-a051-a84aeadd59ba"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "DataStep",
-   "id": "fb219f91-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "0632dd02-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Volcano simple",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f8f-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0632dd00-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -58884,7 +58967,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f90-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0632dd01-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -58933,7 +59016,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds24.Median Final score",
+          "name": "ds22.Median Final score",
           "type": "double"
          }
         ],
@@ -58984,7 +59067,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds24.Median Kinase Statistic",
+          "name": "ds22.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -59017,7 +59100,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds24.Median Final score",
+          "name": "ds22.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -59077,7 +59160,7 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds018",
+     "namespace": "ds06",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "",
@@ -59162,19 +59245,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "0ceb975e-cfca-430b-b7e7-dd8e4d09f823"
+    "id": "48908080-4255-4f5c-a9d9-5228fc64480a"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "ViewStep",
-   "id": "fb219f93-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "0632dd04-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "View",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f92-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "0632dd03-1d22-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "in"
     }
@@ -59204,13 +59287,13 @@
   },
   {
    "kind": "DataStep",
-   "id": "fb219f96-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "06cb7382-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Volcano shiny",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fb219f94-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "06cb7380-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -59218,7 +59301,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fb219f95-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "06cb7381-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "data"
     }
@@ -59267,7 +59350,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds24.Median Final score",
+          "name": "ds22.Median Final score",
           "type": "double"
          }
         ],
@@ -59304,7 +59387,7 @@
         "factors": [
          {
           "kind": "Factor",
-          "name": "ds24.Kinase Name",
+          "name": "ds22.Kinase Name",
           "type": "string"
          }
         ]
@@ -59324,7 +59407,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds24.Median Kinase Statistic",
+          "name": "ds22.Median Kinase Statistic",
           "type": "double"
          },
          "rectangle": {
@@ -59357,7 +59440,7 @@
          "kind": "GraphicalFactor",
          "factor": {
           "kind": "Factor",
-          "name": "ds24.Median Final score",
+          "name": "ds22.Median Final score",
           "type": "double"
          },
          "rectangle": {
@@ -59417,12 +59500,12 @@
     },
     "operatorSettings": {
      "kind": "OperatorSettings",
-     "namespace": "ds003",
+     "namespace": "ds001",
      "operatorRef": {
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.6",
-      "operatorId": "20",
+      "operatorId": "17",
       "operatorKind": "ShinyOperator",
       "propertyValues": [],
       "url": {
@@ -59502,19 +59585,19 @@
    },
    "computedRelation": {
     "kind": "Relation",
-    "id": "33ab8534-3f9a-4808-ab1a-a6497c3511ff"
+    "id": "d006414a-f2d4-4739-b60a-490812fc5038"
    },
    "parentDataStepId": ""
   },
   {
    "kind": "WizardStep",
-   "id": "fbba3602-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "07640a02-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Wizard",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fbba3600-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "07640a00-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -59522,7 +59605,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fbba3601-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "07640a01-1d22-1302-847d-73580e8182cd",
      "linkType": "relation",
      "name": "table"
     }
@@ -59536,8 +59619,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 271.505,
-     "y": 95.5
+     "x": 269.505,
+     "y": 86.5
     }
    },
    "state": {
@@ -59826,13 +59909,13 @@
   },
   {
    "kind": "InStep",
-   "id": "fbba3605-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "07640a05-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Input",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fbba3603-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "07640a03-1d22-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -59840,7 +59923,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fbba3604-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "07640a04-1d22-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -59854,8 +59937,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 277.505,
-     "y": 4.5
+     "x": 266.505,
+     "y": -20.5
     }
    },
    "state": {
@@ -59868,19 +59951,19 @@
    "description": "Input of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 2985.3346356201173,
-    "y": 859.5
+    "x": 2989.3346356201173,
+    "y": 869.5
    }
   },
   {
    "kind": "OutStep",
-   "id": "fbba3608-bbd1-1021-b9b8-f9ceebae1db7",
-   "groupId": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "07640a08-1d22-1302-847d-73580e8182cd",
+   "groupId": "0337ec80-1d22-1302-847d-73580e8182cd",
    "name": "Output",
    "inputs": [
     {
      "kind": "InputPort",
-     "id": "fbba3606-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "07640a06-1d22-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "from"
     }
@@ -59888,7 +59971,7 @@
    "outputs": [
     {
      "kind": "OutputPort",
-     "id": "fbba3607-bbd1-1021-b9b8-f9ceebae1db7",
+     "id": "07640a07-1d22-1302-847d-73580e8182cd",
      "linkType": "any",
      "name": "to"
     }
@@ -59902,8 +59985,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 422.5050000000001,
-     "y": 383.5
+     "x": 475.5050000000001,
+     "y": 430.5
     }
    },
    "state": {
@@ -59916,13 +59999,13 @@
    "description": "Output of a sub workflow.",
    "groupPortPosition": {
     "kind": "Point",
-    "x": 2985.3346356201173,
-    "y": 922.5
+    "x": 2989.3346356201173,
+    "y": 932.5
    }
   },
   {
    "kind": "GroupStep",
-   "id": "fa890900-bbd1-1021-b9b8-f9ceebae1db7",
+   "id": "0337ec80-1d22-1302-847d-73580e8182cd",
    "groupId": "",
    "name": "UKA_VSN_T3 vs T2",
    "inputs": [],
@@ -59936,8 +60019,8 @@
     },
     "topLeft": {
      "kind": "Point",
-     "x": 2924.7626751708985,
-     "y": 867.5
+     "x": 2928.7626751708985,
+     "y": 877.5
     }
    },
    "state": {
@@ -59948,20 +60031,20 @@
     }
    },
    "description": "",
-   "appId": "5f23b631d60a7c4d84f615f53ef7f021",
+   "appId": "2114f75c340d11e2770a93b410f7f84e",
    "appName": "UKA_TGC_app",
-   "version": "0.0.23",
+   "version": "0.1.0",
    "offset": {
     "kind": "Point",
-    "x": 638.0,
-    "y": 13.0
+    "x": 627.0,
+    "y": 86.0
    }
   }
  ],
  "offset": {
   "kind": "Point",
-  "x": -547.0,
-  "y": 58.0
+  "x": -395.0,
+  "y": 136.0
  },
  "scale": 1.0
 }
